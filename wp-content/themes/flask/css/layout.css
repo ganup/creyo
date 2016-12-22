@@ -1,0 +1,133 @@
+html {
+	overflow-x: hidden;
+}
+body {
+	background-color: #444;
+	background-image: url("../img/dark-texture.jpg");
+	background-repeat: repeat;
+}
+
+#page {
+	position: relative;
+	width: 99%;
+	border-top-right-radius: 2em;
+	background-color: #fff;
+	margin-left: 0;
+	margin-right: auto;
+	margin-top: .5em;
+	left: 0;
+	box-shadow: 0 6px 12px 1px #222;
+	z-index: 2;
+}
+#masthead {
+	border-top-right-radius: 2em;
+	padding-bottom: 2em;
+}
+#content {
+	margin-top: 1.5em;
+	margin-bottom: .5em;
+}
+.inner {
+	position: relative;
+	width: 95%;
+	max-width: 1200px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.site-branding {
+	margin-top: 1.66em;
+	margin-right: 3.5em;
+}
+.site-branding, .site-logo {
+	float: left;
+}
+.site-logo {
+	margin-top: 2.075em;
+	margin-right: 1.25em;
+	max-height: 88px;
+	width: auto;
+	max-width: 80%;
+}
+#content {
+	position: relative;
+}
+#colophon {
+	padding: .4em 0 .5em;
+}
+.site-license {
+	float: left;
+}
+.site-info {
+	float: right;
+}
+#primary {
+	float: left;
+	width: 70%;
+	margin-right: 5%;
+	margin-left: auto;
+	margin-bottom: 1em;
+	padding: 0 2.5%;
+}
+
+.page-template-portfolio-page #primary,
+.page-template-full-width-page #primary,
+.error404 #primary,
+.woocommerce #primary {
+	float: none;
+	margin-right: auto;
+	width: 100%;
+}
+.page-template-one-column-page #primary,
+.no-sidebar #primary,
+.woocommerce-cart #primary,
+.woocommerce-checkout #primary {
+	float: none;
+	margin-right: auto;
+}
+#secondary {
+	float: right;
+	width: 25%;
+}
+.no-sidebar #secondary,
+.woocommerce #secondary,
+.woocommerce-cart #secondary,
+.woocommerce-checkout #secondary {
+	display: none;
+}
+
+@media screen and (max-width: 900px) {
+	#primary {
+		width: 65%;
+		padding-right: 0;
+	}
+	#secondary {
+		width: 30%;
+	}
+}
+@media screen and (max-width: 768px) {
+	#primary {
+		float: none;
+		width: 100%;
+		margin-right: auto;
+		padding: 0 2.5%;
+	}
+	#secondary {
+		float: none;
+		width: 50%;
+		margin-right: auto;
+		margin-left: auto;
+	}
+}
+@media screen and (max-width: 640px) {
+	#secondary {
+		width: 60%;
+	}
+}
+@media screen and (max-width: 480px) {
+	#secondary {
+		width: 80%;
+	}
+	.site-logo {
+		max-width: 80%;
+	}
+}

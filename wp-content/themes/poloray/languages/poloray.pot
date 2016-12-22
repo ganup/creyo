@@ -1,0 +1,782 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Poloray Theme\n"
+"POT-Creation-Date: 2015-09-03 17:09+0530\n"
+"PO-Revision-Date: 2015-09-03 17:10+0530\n"
+"Last-Translator: Urooj Khan <uroojkhan171@gmail.com>\n"
+"Language-Team: InkThemes <inkthemes@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr_e;_n_noop;esc_html_x\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:13
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr ""
+
+#: 404.php:29
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching, or one of the links below, can help."
+msgstr ""
+
+#: 404.php:35
+msgid "Most Used Categories"
+msgstr ""
+
+#: 404.php:43
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: archive.php:17
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: archive.php:19
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: archive.php:21
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: archive.php:23
+msgid "Blog Archives"
+msgstr ""
+
+#: archive.php:52 author.php:65 blog.php:70 category.php:37 index.php:35
+#: search.php:48 tag.php:30
+msgid "&larr; Older posts"
+msgstr ""
+
+#: archive.php:54 author.php:67 blog.php:72 category.php:39 index.php:37
+#: search.php:50 tag.php:32
+msgid "Newer posts &rarr;"
+msgstr ""
+
+#: attachment.php:24
+#, php-format
+msgid "Return to %s"
+msgstr ""
+
+#: attachment.php:27
+#, php-format
+msgid "<span>&larr;</span> %s"
+msgstr ""
+
+#: attachment.php:32
+#, php-format
+msgid "By %2$s"
+msgstr ""
+
+#: attachment.php:37
+#, php-format
+msgid "Published %2$s"
+msgstr ""
+
+#: attachment.php:42
+#, php-format
+msgid "Full size is %s pixels"
+msgstr ""
+
+#: attachment.php:42
+msgid "Link to full-size image"
+msgstr ""
+
+#: attachment.php:45 attachment.php:90
+msgid "Edit"
+msgstr ""
+
+#: attachment.php:87
+msgid "Continue reading &rarr;"
+msgstr ""
+
+#: attachment.php:88 page.php:32 single.php:46
+msgid "Pages:"
+msgstr ""
+
+#: author.php:13
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: author.php:44
+#, php-format
+msgid "About %s"
+msgstr ""
+
+#: blog.php:43 loop.php:15 single.php:38
+msgid "By"
+msgstr ""
+
+#: blog.php:55 loop.php:28
+msgid "read more"
+msgstr ""
+
+#: blog.php:64 loop.php:37 single.php:61
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: category.php:12
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: comments.php:6
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:16
+msgid "so far."
+msgstr ""
+
+#: comments.php:33
+msgid "Comments are closed."
+msgstr ""
+
+#: front-page.php:22
+msgid ""
+"Your Site is faster to built, \n"
+"                                easy to use & Search Engine\n"
+"                                Optimized."
+msgstr ""
+
+#: front-page.php:29
+msgid ""
+"Poloray WordPress Theme with Single Click \n"
+"                            Installation, Just a Click and your website is \n"
+"                            ready in Instant."
+msgstr ""
+
+#: front-page.php:78
+msgid "You will find some of the best and most reliable products over Here."
+msgstr ""
+
+#: front-page.php:88
+msgid "Get the Item Now !"
+msgstr ""
+
+#: front-page.php:107
+msgid "Quick to Install and Configure"
+msgstr ""
+
+#: front-page.php:112
+msgid ""
+"Poloray Theme is very easy to Install and you can do the setup in few "
+"minutes."
+msgstr ""
+
+#: front-page.php:116 front-page.php:140 front-page.php:164 front-page.php:187
+msgid "Read More"
+msgstr ""
+
+#: front-page.php:131
+msgid "Multi Language Translation Enabled"
+msgstr ""
+
+#: front-page.php:136
+msgid ""
+"Poloray Theme allows multi-language translation &amp; you can easily "
+"translate your site."
+msgstr ""
+
+#: front-page.php:155
+msgid "Mobile &amp; Tablet Optimized Design"
+msgstr ""
+
+#: front-page.php:160
+msgid "Poloray Theme had a Responsive Mobiles &amp; Tablets Optimized Design."
+msgstr ""
+
+#: front-page.php:178
+msgid "Highly Search Engine Friendly"
+msgstr ""
+
+#: front-page.php:183
+msgid ""
+"Poloray Theme is SEO Friendly WordPress Theme, rank your site easily with "
+"Poloray."
+msgstr ""
+
+#: functions/admin-interface.php:68
+msgid "Upgrade to Poloray Theme PRO!"
+msgstr ""
+
+#: functions/admin-interface.php:69
+msgid ""
+"<p>You are Using the Lite Version of Poloray Theme, Upgrade to Pro to get "
+"more Home Page Image Slider, Added HomePage Sections, Gallery, Contact Page "
+"Template, Premium Support and more.</p>"
+msgstr ""
+
+#: functions/admin-interface.php:70
+msgid "Click Here to Upgrade to Poloray Theme PRO !"
+msgstr ""
+
+#: functions/admin-interface.php:74
+msgid "Options Updated"
+msgstr ""
+
+#: functions/admin-interface.php:77
+msgid "Options Reset"
+msgstr ""
+
+#: functions/admin-interface.php:83
+msgid "Options"
+msgstr ""
+
+#: functions/inkthemes-plugin-notify.php:52
+msgid "Install Recommended Plugins"
+msgstr ""
+
+#: functions/inkthemes-plugin-notify.php:53
+#: functions/plugin-activation.php:334
+msgid "Install Plugins"
+msgstr ""
+
+#: functions/inkthemes-plugin-notify.php:54
+#: functions/plugin-activation.php:335
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: functions/inkthemes-plugin-notify.php:55
+#: functions/plugin-activation.php:336
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: functions/inkthemes-plugin-notify.php:57
+#, php-format
+msgid ""
+"This theme recommends the following plugin to add lead form on landing page: "
+"%1$s."
+msgstr ""
+
+#: functions/inkthemes-plugin-notify.php:60
+#: functions/plugin-activation.php:343
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgstr ""
+
+#: functions/inkthemes-plugin-notify.php:63
+#: functions/plugin-activation.php:348
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugin."
+msgstr ""
+
+#: functions/inkthemes-plugin-notify.php:66
+#: functions/plugin-activation.php:353
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr ""
+
+#: functions/inkthemes-plugin-notify.php:69
+#: functions/plugin-activation.php:358
+#, php-format
+msgid "There is an update available for: %1$s."
+msgstr ""
+
+#: functions/inkthemes-plugin-notify.php:72
+#: functions/plugin-activation.php:363
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgstr ""
+
+#: functions/inkthemes-plugin-notify.php:75
+#, php-format
+msgid ""
+"This theme recommends the following plugin to add lead form on landing page "
+"is currently inactive: %1$s."
+msgstr ""
+
+#: functions/inkthemes-plugin-notify.php:78
+#: functions/plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgstr ""
+
+#: functions/inkthemes-plugin-notify.php:81
+#: functions/plugin-activation.php:378
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugin."
+msgstr ""
+
+#: functions/inkthemes-plugin-notify.php:84
+#: functions/plugin-activation.php:383
+msgid "Begin installing plugin"
+msgstr ""
+
+#: functions/inkthemes-plugin-notify.php:87
+#: functions/plugin-activation.php:388
+msgid "Begin updating plugin"
+msgstr ""
+
+#: functions/inkthemes-plugin-notify.php:90
+#: functions/plugin-activation.php:393
+msgid "Begin activating plugin"
+msgstr ""
+
+#: functions/inkthemes-plugin-notify.php:92
+#: functions/plugin-activation.php:397
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: functions/inkthemes-plugin-notify.php:93
+#: functions/plugin-activation.php:399 functions/plugin-activation.php:3029
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: functions/inkthemes-plugin-notify.php:94
+#: functions/plugin-activation.php:400
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: functions/inkthemes-plugin-notify.php:95
+#: functions/plugin-activation.php:401
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: functions/inkthemes-plugin-notify.php:96
+#: functions/plugin-activation.php:402
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: functions/inkthemes-plugin-notify.php:97
+#: functions/plugin-activation.php:403
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: functions/inkthemes-plugin-notify.php:98
+#: functions/plugin-activation.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: functions/plugin-activation.php:333
+msgid "Install Required Plugins"
+msgstr ""
+
+#: functions/plugin-activation.php:338
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgstr ""
+
+#: functions/plugin-activation.php:368
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgstr ""
+
+#: functions/plugin-activation.php:398
+msgid "Return to the dashboard"
+msgstr ""
+
+#: functions/plugin-activation.php:404
+msgid "Dismiss this notice"
+msgstr ""
+
+#: functions/plugin-activation.php:1116 functions/plugin-activation.php:2828
+msgid "and"
+msgstr ""
+
+#: functions/plugin-activation.php:2167
+msgid "Required"
+msgstr ""
+
+#: functions/plugin-activation.php:2170
+msgid "Recommended"
+msgstr ""
+
+#: functions/plugin-activation.php:2186
+msgid "WordPress Repository"
+msgstr ""
+
+#: functions/plugin-activation.php:2189
+msgid "External Source"
+msgstr ""
+
+#: functions/plugin-activation.php:2192
+msgid "Pre-Packaged"
+msgstr ""
+
+#: functions/plugin-activation.php:2209
+msgid "Not Installed"
+msgstr ""
+
+#: functions/plugin-activation.php:2213
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: functions/plugin-activation.php:2215
+msgid "Active"
+msgstr ""
+
+#: functions/plugin-activation.php:2221
+msgid "Required Update not Available"
+msgstr ""
+
+#: functions/plugin-activation.php:2224
+msgid "Requires Update"
+msgstr ""
+
+#: functions/plugin-activation.php:2227
+msgid "Update recommended"
+msgstr ""
+
+#: functions/plugin-activation.php:2379
+msgid "Installed version:"
+msgstr ""
+
+#: functions/plugin-activation.php:2387
+msgid "Minimum required version:"
+msgstr ""
+
+#: functions/plugin-activation.php:2399
+msgid "Available version:"
+msgstr ""
+
+#: functions/plugin-activation.php:2422
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+
+#: functions/plugin-activation.php:2436
+msgid "Plugin"
+msgstr ""
+
+#: functions/plugin-activation.php:2437
+msgid "Source"
+msgstr ""
+
+#: functions/plugin-activation.php:2438
+msgid "Type"
+msgstr ""
+
+#: functions/plugin-activation.php:2442
+msgid "Version"
+msgstr ""
+
+#: functions/plugin-activation.php:2443
+msgid "Status"
+msgstr ""
+
+#: functions/plugin-activation.php:2603
+msgid "Install"
+msgstr ""
+
+#: functions/plugin-activation.php:2609
+msgid "Update"
+msgstr ""
+
+#: functions/plugin-activation.php:2612
+msgid "Activate"
+msgstr ""
+
+#: functions/plugin-activation.php:2643
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: functions/plugin-activation.php:2645
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: functions/plugin-activation.php:2681
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: functions/plugin-activation.php:2683
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: functions/plugin-activation.php:3028
+msgid "Plugin activation failed."
+msgstr ""
+
+#: functions/plugin-activation.php:3362
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: functions/plugin-activation.php:3364
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: functions/plugin-activation.php:3365
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: functions/plugin-activation.php:3369
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: functions/plugin-activation.php:3370
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: functions/plugin-activation.php:3371
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: functions/plugin-activation.php:3372
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: functions/plugin-activation.php:3375
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: functions/plugin-activation.php:3377
+msgid "All installations have been completed."
+msgstr ""
+
+#: functions/plugin-activation.php:3378
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: functions/poloray-functions.php:14
+msgid "Main Menu"
+msgstr ""
+
+#: functions/poloray-functions.php:46 functions/poloray-functions.php:48
+#: functions/poloray-functions.php:60
+msgid "Home"
+msgstr ""
+
+#: functions/poloray-functions.php:75
+msgid "Archive by category"
+msgstr ""
+
+#: functions/poloray-functions.php:123
+msgid "Search results for"
+msgstr ""
+
+#: functions/poloray-functions.php:125
+msgid "Posts tagged "
+msgstr ""
+
+#: functions/poloray-functions.php:129
+msgid "Articles posted by "
+msgstr ""
+
+#: functions/poloray-functions.php:131
+msgid "Error 404"
+msgstr ""
+
+#: functions/poloray-functions.php:136
+msgid "Page"
+msgstr ""
+
+#: functions/poloray-functions.php:151
+#, php-format
+msgid ""
+"This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" "
+"title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: functions/poloray-functions.php:153
+#, php-format
+msgid ""
+"This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" title="
+"\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: functions/poloray-functions.php:155
+#, php-format
+msgid ""
+"Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark"
+"\">permalink</a>."
+msgstr ""
+
+#: functions/poloray-functions.php:183
+msgid "Primary Widget Area"
+msgstr ""
+
+#: functions/poloray-functions.php:185
+msgid "The primary widget area"
+msgstr ""
+
+#: functions/poloray-functions.php:193
+msgid "Secondary Widget Area"
+msgstr ""
+
+#: functions/poloray-functions.php:195
+msgid "The secondary widget area"
+msgstr ""
+
+#: functions/poloray-functions.php:203
+msgid "First Footer Widget Area"
+msgstr ""
+
+#: functions/poloray-functions.php:205
+msgid "The first footer widget area"
+msgstr ""
+
+#: functions/poloray-functions.php:213
+msgid "Second Footer Widget Area"
+msgstr ""
+
+#: functions/poloray-functions.php:215
+msgid "The second footer widget area"
+msgstr ""
+
+#: functions/poloray-functions.php:223
+msgid "Third Footer Widget Area"
+msgstr ""
+
+#: functions/poloray-functions.php:225
+msgid "The third footer widget area"
+msgstr ""
+
+#: functions/poloray-functions.php:233
+msgid "Fourth Footer Widget Area"
+msgstr ""
+
+#: functions/poloray-functions.php:235
+msgid "The fourth footer widget area"
+msgstr ""
+
+#: functions/poloray-functions.php:357
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: header.php:43
+msgid "Pages Navigation Menu"
+msgstr ""
+
+#: search.php:13
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: search.php:33
+msgid "Nothing Found"
+msgstr ""
+
+#: search.php:39
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: sidebar-footer.php:6
+msgid "About Us"
+msgstr ""
+
+#: sidebar-footer.php:7
+msgid ""
+"A cras tincidunt,  is a  tellus et. Gravida scel sum sed iaculis, is a nunc "
+"non nam. Placerat sed hase llus, purus purus elit."
+msgstr ""
+
+#: sidebar-footer.php:16
+msgid "Archives Widget"
+msgstr ""
+
+#: sidebar-footer.php:18
+msgid "January"
+msgstr ""
+
+#: sidebar-footer.php:19
+msgid "February"
+msgstr ""
+
+#: sidebar-footer.php:20
+msgid "March"
+msgstr ""
+
+#: sidebar-footer.php:21
+msgid "April"
+msgstr ""
+
+#: sidebar-footer.php:22
+msgid "August"
+msgstr ""
+
+#: sidebar-footer.php:32
+msgid "Our Services"
+msgstr ""
+
+#: sidebar-footer.php:34
+msgid "Theme Design"
+msgstr ""
+
+#: sidebar-footer.php:35
+msgid "Logo Design"
+msgstr ""
+
+#: sidebar-footer.php:36
+msgid "Template Design"
+msgstr ""
+
+#: sidebar-footer.php:37
+msgid "PSD Design"
+msgstr ""
+
+#: sidebar-footer.php:38
+msgid "Others Themes"
+msgstr ""
+
+#: sidebar-footer.php:48
+msgid "Search Site"
+msgstr ""
+
+#: sidebar.php:3
+msgid "Search:"
+msgstr ""
+
+#: sidebar.php:6
+msgid "Categories"
+msgstr ""
+
+#: sidebar.php:12
+msgid "Archives"
+msgstr ""
+
+#: single.php:50
+msgid "Post Tagged with "
+msgstr ""
+
+#: single.php:67
+msgid "<span class=\"meta-nav\">&larr;</span> Previous Post "
+msgstr ""
+
+#: single.php:69
+msgid "Next Post <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: tag.php:14
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""

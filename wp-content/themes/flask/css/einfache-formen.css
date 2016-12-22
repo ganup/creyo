@@ -1,0 +1,393 @@
+/*--------------------------------------------------------------
+>>> TABLE OF CONTENTS:
+----------------------------------------------------------------
+1.0 Normalize
+2.0 Columns
+3.0 Alignments
+4.0 Clearings
+5.0 Functional googaws and widgets
+--------------------------------------------------------------*/
+
+/*--------------------------------------------------------------
+1.0 Normalize
+--------------------------------------------------------------*/
+html {
+	font-family: sans-serif;
+	-webkit-text-size-adjust: 100%;
+	-ms-text-size-adjust:     100%;
+}
+
+body {
+	margin: 0;
+}
+
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+main,
+menu,
+nav,
+section,
+summary {
+	display: block;
+}
+
+audio,
+canvas,
+progress,
+video {
+	display: inline-block;
+	vertical-align: baseline;
+}
+
+audio:not([controls]) {
+	display: none;
+	height: 0;
+}
+
+[hidden],
+template {
+	display: none;
+}
+
+a {
+	background-color: transparent;
+}
+
+a:active,
+a:hover {
+	outline: 0;
+}
+
+abbr[title] {
+	border-bottom: 1px dotted;
+}
+
+b,
+strong {
+	font-weight: bold;
+}
+
+dfn {
+	font-style: italic;
+}
+
+h1 {
+	font-size: 2em;
+	margin: 0.67em 0;
+}
+
+mark {
+	background: #ff0;
+	color: #000;
+}
+
+small {
+	font-size: 80%;
+}
+
+sub,
+sup {
+	font-size: 75%;
+	line-height: 0;
+	position: relative;
+	vertical-align: baseline;
+}
+
+sup {
+	top: -0.5em;
+}
+
+sub {
+	bottom: -0.25em;
+}
+
+img {
+	border: 0;
+}
+
+svg:not(:root) {
+	overflow: hidden;
+}
+
+figure {
+	margin: 1em 40px;
+}
+
+hr {
+	box-sizing: content-box;
+	height: 0;
+}
+
+pre {
+	overflow: auto;
+}
+
+code,
+kbd,
+pre,
+samp {
+	font-family: monospace, monospace;
+	font-size: 1em;
+}
+
+button,
+input,
+optgroup,
+select,
+textarea {
+	color: inherit;
+	font: inherit;
+	margin: 0;
+}
+
+button {
+	overflow: visible;
+}
+
+button,
+select {
+	text-transform: none;
+}
+
+button,
+html input[type="button"],
+input[type="reset"],
+input[type="submit"] {
+	-webkit-appearance: button;
+	cursor: pointer;
+}
+
+button[disabled],
+html input[disabled] {
+	cursor: default;
+}
+
+button::-moz-focus-inner,
+input::-moz-focus-inner {
+	border: 0;
+	padding: 0;
+}
+
+input {
+	line-height: normal;
+}
+
+input[type="checkbox"],
+input[type="radio"] {
+	box-sizing: border-box;
+	padding: 0;
+}
+
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+	height: auto;
+}
+
+input[type="search"] {
+	-webkit-appearance: textfield;
+	box-sizing: content-box;
+}
+
+input[type="search"]::-webkit-search-cancel-button,
+input[type="search"]::-webkit-search-decoration {
+	-webkit-appearance: none;
+}
+
+fieldset {
+	border: 1px solid #c0c0c0;
+	margin: 0 2px;
+	padding: 0.35em 0.625em 0.75em;
+}
+
+legend {
+	border: 0;
+	padding: 0;
+}
+
+textarea {
+	overflow: auto;
+}
+
+optgroup {
+	font-weight: bold;
+}
+
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+td,
+th {
+	padding: 0;
+}
+
+/*--------------------------------------------------------------
+2.0 Columns
+--------------------------------------------------------------*/
+/* GRID */
+.c25, .c33, .c50 {
+	position: relative;
+	display: inline-block;
+	vertical-align: top;
+	margin-left: -4px !important;
+	margin-right: 4% !important;
+	left: 2%;
+}
+.c50 {
+	width: 46%;
+}
+.c33 {
+	width: 29%;
+}
+.c25 {
+	width: 21%;
+}
+
+/*--------------------------------------------------------------
+3.0 Alignments
+--------------------------------------------------------------*/
+.alignleft {
+	display: inline;
+	float: left;
+	margin-right: 1.5em;
+}
+
+.alignright {
+	display: inline;
+	float: right;
+	margin-left: 1.5em;
+}
+
+.aligncenter {
+	clear: both;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+/*--------------------------------------------------------------
+4.0 Clearings
+--------------------------------------------------------------*/
+.clear:before,
+.clear:after,
+.entry-content:before,
+.entry-content:after,
+.comment-content:before,
+.comment-content:after,
+.site-header:before,
+.site-header:after,
+.site-content:before,
+.site-content:after,
+.site-footer:before,
+.site-footer:after,
+.comment-meta:before,
+.comment-meta:after {
+	content: "";
+	display: table;
+}
+
+.clear:after,
+.entry-content:after,
+.comment-content:after,
+.site-header:after,
+.site-content:after,
+.site-footer:after,
+.comment-meta:after {
+	clear: both;
+}
+
+/*--------------------------------------------------------------
+5.0 Functional Googaws and Widgets
+--------------------------------------------------------------*/
+
+/* Loading Animation for Ajax */
+#curtain#curtain {
+	display: none;
+	content: '';
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	background-color: #666;
+	opacity: .5;
+	z-index: 9999;
+}
+
+#loading-animation {
+	position: relative;
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+	border: 6px solid #444;
+	animation: spin 3s infinite ease-in-out;
+	z-index: 1;
+}
+#loading-animation::after {
+	content: '';
+	width: 12px;
+	height: 12px;
+	border-radius: 50%;
+	border: 12px solid #444;
+	position: absolute;
+	top: -14px;
+	left: 82px;
+	z-index: 2;
+}
+@keyframes spin {
+	from { transform: rotate(0deg); }
+	to { transform: rotate(360deg); }
+}
+
+/* To the Top button */
+
+#tothetop {
+	font-size: 3em;
+	position: fixed;
+	bottom: .5em;
+	right: 2rem;
+	cursor: pointer;
+	color: #666;
+	transition: .5s;
+	z-index: 9999;
+	opacity: .5;
+}
+#tothetop:hover {
+	opacity: 1;
+	transition: .5s;
+}
+
+.flask-error {
+	display: block;
+	width: 100%;
+	text-align: center;
+	padding: .5em 1em;
+	color: #888;
+	background-color: #eee;
+	border-left: 4px solid #b0000b;
+}
+
+@media screen and (max-width: 900px) {
+}
+@media screen and (max-width: 768px) {
+	.c25, .c33, .c50 {
+		display: block;
+		margin-left: auto !important;
+		margin-right: auto !important;
+		left: 0;
+		width: 84%;
+	}
+}
+@media screen and (max-width: 640px) {
+}
+@media screen and (max-width: 480px) {
+	.c25, .c33, .c50 {
+		width: 94%;
+	}
+}

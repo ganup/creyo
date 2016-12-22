@@ -1,0 +1,18 @@
+@import('http://fonts.googleapis.com/css?family=Roboto:400,300,700|Gentium+Book+Basic:400,700');
+
+body, button, input, select {
+	font-family: 'Gentium Book Basic', serif;
+	font-size: 16px;
+}
+
+h1, h2, h3, h4, h5, h6,
+.entry-meta, .entry-footer, 
+.site-footer, .main-navigation,
+.posts-navigation, .post-navigation,
+.comment-meta, .comment .reply {
+	font-family: 'Roboto';
+}
+
+body#tinymce {
+	padding: 1px 1em !important;
+}

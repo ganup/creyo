@@ -1,0 +1,83 @@
+/*
+ * Theme Name: Simple Portfolio
+*/
+
+/* Featured Image */
+
+.large-thumbnail img {
+    display: block;
+    margin: 0 auto;
+}
+
+/*Content*/
+
+.entry-content {
+    overflow: auto;
+    line-height: 24px;
+    line-height: 2.4rem;
+}
+
+.entry-content h1 {
+    font-size: 36px;
+    font-size: 3.6rem;
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+    font-weight: normal;
+    color: #3b6a26;
+    text-transform: uppercase;
+    line-height: 40px;
+}
+
+.entry-content h2 {
+    font-size: 24px;
+    font-size: 2.4rem;
+    font-family: "Times New Roman", Times, serif;
+    font-weight: normal;
+    color: #3b6a26;
+    text-transform: uppercase;
+    line-height: 24px;
+    clear: none;
+}
+
+.text-left {
+    text-align: left;
+}
+
+p {
+    display: block;
+    clear: right;
+    text-align: center;
+    color: #5e6d66;
+}
+
+.entry-content .cta {
+    margin: 30px auto 30px auto;
+    text-align: center;
+    color: white;
+    padding: 10px 60px;
+    background: #7bc144;
+    text-decoration: none;
+    display: block;
+    width: 160px; 
+}
+
+@media screen and (max-width: 37.5em) {
+    .entry-content .cta {
+        width: 100%;
+        margin: 0 auto;
+        padding: 10px 0;
+    } 
+    .entry-content img {
+        margin-bottom: 20px;
+    }
+}
+
+ul, ol {
+    margin: 0;
+}
+.paddingbottom {
+    padding-bottom: 40px;
+}
+
+
+

@@ -1,0 +1,31 @@
+Really Simple Portfolio
+================================================================
+Really Simple Portfolio WordPress Theme, Copyright 2015 Carl Heaton.
+Really Simple Portfolio is distributed under the terms of the GNU GPL.
+
+Licenses and External Assets
+================================================================
+
+Really Simple Portfolio is distributed under the terms of the GNU GPL v2
+
+Really Simple Portfolio's code base started out as _s (http://underscores.me) as it were on July 6, 2015.
+
+3.1. Fonts
+3.1.1. Droid Serif from https://www.google.com/fonts/specimen/Droid+Serif.
+
+Droid Serif is licenced under the SIL Open Font License (OFL).
+License url: http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
+
+3.1.2 Font Awesome
+
+The license applies to all desktop and webfont files in the following directory: font-awesome/fonts/.
+License: SIL OFL 1.1
+URL: http://scripts.sil.org/OFL
+
+3.2. Images
+
+Top Logo -  the logo.png file is licensed to http://www.webcoursesbangkok.com/.
+
+The featured image on the home page (home.jpg) is from https://unsplash.com/photos/nJdwUHmaY8A - Royality Free www.unsplash.com
+
+The image on the home page (computerwcb.png) is licensed to http://www.webcoursesbangkok.com/.

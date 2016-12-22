@@ -1,0 +1,31 @@
+#content {
+    padding-bottom: 4rem;
+}
+
+.wrapper {
+    overflow: hidden;
+}
+
+.pagination {
+    border-top: 1px solid $green;
+    height: 4.500rem;
+    padding-top: 2rem;
+    position: relative;
+    width: 100%;
+    span {
+        background: $green;
+        color: $white;
+        display: inline-block;
+        padding: 1rem;
+        position: absolute;
+        text-align: center;
+        top: 2rem;
+        min-width: 7rem;
+    }
+    span.previous {
+        left: 0;
+    }
+    span.next {
+        right: 0;
+    }
+}

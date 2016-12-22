@@ -1,0 +1,172 @@
+# Translation of Really Simple Portfolio in English (UK)
+# This file is distributed under the same license as the Really Simple Portfolio package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-07-13 20:23:11+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.1.0-alpha\n"
+"Project-Id-Version: Really Simple Portfolio\n"
+
+#. Theme Name of the plugin/theme
+msgid "Really Simple Portfolio"
+msgstr "Really Simple Portfolio"
+
+#. Description of the plugin/theme
+msgid "A simple portfolio theme with a blog, fully-responsive, with custom design and based on Underscores."
+msgstr "A simple portfolio theme with a blog, fully-responsive with custom design and based on Underscores."
+
+#. Template Name of the plugin/theme
+msgid "Home Page"
+msgstr "Home Page"
+
+#: template-parts/content.php:50
+msgid "Read more"
+msgstr "Read more"
+
+#. translators: %s: Name of current post.
+#: template-parts/content.php:36
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: template-parts/content-page.php:26 template-parts/content-single.php:32
+#: template-parts/content.php:43
+msgid "Pages:"
+msgstr "Pages:"
+
+#: template-parts/content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+
+#: template-parts/content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+
+#: template-parts/content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Nothing Found"
+
+#: search.php:18
+msgid "Search Results for: %s"
+msgstr "Search Results for: %s"
+
+#: inc/template-tags.php:72 template-parts/content-page.php:33
+msgid "Edit"
+msgstr "Edit"
+
+#: inc/template-tags.php:68
+msgid "% Comments"
+msgstr "% Comments"
+
+#: inc/template-tags.php:68
+msgid "1 Comment"
+msgstr "1 Comment"
+
+#: inc/template-tags.php:56
+msgid "Posted in %1$s "
+msgstr "Posted in %1$s "
+
+#: inc/template-tags.php:68
+msgid "Leave a comment"
+msgstr "Leave a comment"
+
+#: inc/template-tags.php:62
+msgid "Tagged %1$s "
+msgstr "Tagged %1$s "
+
+#: inc/template-tags.php:37
+msgctxt "post author"
+msgid "by %s"
+msgstr "By %s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:54 inc/template-tags.php:60
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:32
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Posted on %s"
+
+#: inc/extras.php:52
+msgid "Page %s"
+msgstr "Page %s"
+
+#: header.php:40
+msgid "Menu"
+msgstr "Menu"
+
+#: functions.php:52
+msgid "Social Menu"
+msgstr "Social Menu"
+
+#: header.php:25
+msgid "Skip to content"
+msgstr "Skip to content"
+
+#: functions.php:51
+msgid "Primary Menu"
+msgstr "Primary Menu"
+
+#. Translators: 1 is current year, 2 is site title, 3 is theme author link.
+#: footer.php:20
+msgid "&copy; %1$s %2$s | Designed by %3$s"
+msgstr "&copy; %1$s %2$s | Designed by %3$s"
+
+#. #-#-#-#-#  really-simple-portfolio.pot (Really Simple Portfolio 1.1.4) 
+#. #-#-#-#-#
+#. Author of the plugin/theme
+#: footer.php:23
+msgid "Carl Heaton"
+msgstr "Carl Heaton"
+
+#: comments.php:78
+msgid "Comments are closed."
+msgstr "Comments are closed."
+
+#: comments.php:44 comments.php:66
+msgid "Newer Comments"
+msgstr "Newer Comments"
+
+#: comments.php:43 comments.php:65
+msgid "Older Comments"
+msgstr "Older Comments"
+
+#: comments.php:40 comments.php:62
+msgid "Comment navigation"
+msgstr "Comment navigation"
+
+#: comments.php:31
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "One thought on &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s thoughts on &ldquo;%2$s&rdquo;"
+
+#. translators: %1$s: smiley
+#: 404.php:46
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Try looking in the monthly archives. %1$s"
+
+#: 404.php:29
+msgid "Most Used Categories"
+msgstr "Most Used Categories"
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oops! That page can&rsquo;t be found."
+
+#. Author URI of the plugin/theme
+msgid "www.webcoursesbangkok.com"
+msgstr "www.webcoursesbangkok.com"

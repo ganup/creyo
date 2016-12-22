@@ -1,0 +1,444 @@
+# Translation of Sela in English (UK)
+# This file is distributed under the same license as the Sela package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-09-09 01:02:13+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.1.0-alpha\n"
+"Project-Id-Version: Sela\n"
+
+#. Theme Name of the plugin/theme
+msgid "Sela"
+msgstr "Sela"
+
+#. Description of the plugin/theme
+msgid "Sela is not your typical business theme. Vibrant, bold, and clean, with lots of space for large images, this theme will look great on all devices, from desktop to mobile."
+msgstr "Sela is not your typical business theme. Vibrant, bold, and clean, with lots of space for large images, this theme will look great on all devices, from desktop to mobile."
+
+#: inc/plugin-enhancements.php:106
+msgid "Site Logo"
+msgstr "Site Logo"
+
+#: inc/plugin-enhancements.php:115
+msgid "Featured Content"
+msgstr "Featured Content"
+
+#: inc/plugin-enhancements.php:133
+msgid "Menus"
+msgstr "Menus"
+
+#: inc/plugin-enhancements.php:142
+msgid "Comics"
+msgstr "Comics"
+
+#: inc/plugin-enhancements.php:160
+msgid "Portfolios"
+msgstr "Portfolios"
+
+#: inc/plugin-enhancements.php:288
+msgid "To use %1$s, please activate the Jetpack plugin&rsquo;s %2$s."
+msgstr "To use %1$s, please activate the Jetpack plugin&rsquo;s %2$s."
+
+#: inc/plugin-enhancements.php:261
+msgid " Please install %1$s. %2$s"
+msgstr " Please install %1$s. %2$s"
+
+#: inc/plugin-enhancements.php:263
+msgid "Install"
+msgstr "Install"
+
+#: inc/plugin-enhancements.php:82
+msgid "The %1$s is necessary to use some of this theme&rsquo;s features, including: "
+msgstr "The %1$s is necessary to use some of this theme&rsquo;s features, including: "
+
+#: inc/plugin-enhancements.php:83
+msgid "Jetpack plugin"
+msgstr "Jetpack plugin"
+
+#: inc/plugin-enhancements.php:178
+msgid "no specific module needed"
+msgstr "No specific module needed"
+
+#: inc/plugin-enhancements.php:179
+msgid "Custom Content Types module"
+msgstr "Custom Content Types module"
+
+#: inc/plugin-enhancements.php:251
+msgid " Please activate %1$s. %2$s"
+msgstr " Please activate %1$s. %2$s"
+
+#: inc/plugin-enhancements.php:253
+msgid "Activate"
+msgstr "Activate"
+
+#. Template Name of the plugin/theme
+msgid "Grid Page"
+msgstr "Grid Page"
+
+#. Template Name of the plugin/theme
+msgid "Full Width Page"
+msgstr "Full Width Page"
+
+#. Template Name of the plugin/theme
+msgid "Front Page"
+msgstr "Front Page"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Search Results for: %s"
+
+#: inc/template-tags.php:423
+msgid "Archives"
+msgstr "Archives"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:421
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: inc/template-tags.php:417
+msgid "Archives: %s"
+msgstr "Archives: %s"
+
+#: inc/template-tags.php:414
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "Chats"
+
+#: inc/template-tags.php:412
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "Audio"
+
+#: inc/template-tags.php:410
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "Statuses"
+
+#: inc/template-tags.php:408
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "Links"
+
+#: inc/template-tags.php:406
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "Quotes"
+
+#: inc/template-tags.php:404
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "Videos"
+
+#: inc/template-tags.php:402
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "Images"
+
+#: inc/template-tags.php:400
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "Galleries"
+
+#: inc/template-tags.php:398
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "Asides"
+
+#: inc/template-tags.php:395
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "F j, Y"
+
+#: inc/template-tags.php:395
+msgid "Day: %s"
+msgstr "Day: %s"
+
+#: inc/template-tags.php:393
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-tags.php:393
+msgid "Month: %s"
+msgstr "Month: %s"
+
+#: inc/template-tags.php:391
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-tags.php:391
+msgid "Year: %s"
+msgstr "Year: %s"
+
+#: inc/template-tags.php:389
+msgid "Author: %s"
+msgstr "Author: %s"
+
+#: inc/template-tags.php:387
+msgid "Tag: %s"
+msgstr "Tag: %s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:325 inc/template-tags.php:333
+msgid "Tagged: %2$s"
+msgstr "Tagged: %2$s"
+
+#: inc/template-tags.php:327
+msgid "<a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">Permalink</a>."
+msgstr "<a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">Permalink</a>."
+
+#: inc/template-tags.php:333 inc/template-tags.php:335
+msgid "Posted in: %1$s"
+msgstr "Posted in: %1$s"
+
+#: inc/template-tags.php:385
+msgid "Category: %s"
+msgstr "Category: %s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:317
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:200
+msgid "% Comments"
+msgstr "% Comments"
+
+#: inc/template-tags.php:200
+msgid "1 Comment"
+msgstr "1 Comment"
+
+#: inc/template-tags.php:200
+msgid "Leave a comment"
+msgstr "Leave a comment"
+
+#: inc/template-tags.php:189
+msgid "Featured"
+msgstr "Featured"
+
+#: inc/template-tags.php:95
+msgid "Your comment is awaiting moderation."
+msgstr "Your comment is awaiting moderation."
+
+#: inc/template-tags.php:89
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr "%1$s at %2$s"
+
+#: inc/template-tags.php:84
+msgid "%s <span class=\"says\">says:</span>"
+msgstr "%s <span class=\"says\">says:</span>"
+
+#: inc/template-tags.php:53
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav\"></span>&nbsp;%title"
+msgstr "<span class=\"meta-nav\"></span>&nbsp;%title"
+
+#: inc/template-tags.php:54
+msgctxt "Next post link"
+msgid "%title&nbsp;<span class=\"meta-nav\"></span>"
+msgstr "%title&nbsp;<span class=\"meta-nav\"></span>"
+
+#: inc/template-tags.php:75
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: inc/template-tags.php:23
+msgid "<span class=\"meta-nav\"></span> Older posts"
+msgstr "<span class=\"meta-nav\"></span> Older posts"
+
+#: inc/template-tags.php:27
+msgid "Newer posts <span class=\"meta-nav\"></span>"
+msgstr "Newer posts <span class=\"meta-nav\"></span>"
+
+#: inc/template-tags.php:50
+msgid "Post navigation"
+msgstr "Post navigation"
+
+#: inc/template-tags.php:19
+msgid "Posts navigation"
+msgstr "Posts navigation"
+
+#: inc/extras.php:113
+msgid "Page %s"
+msgstr "Page %s"
+
+#: image.php:21
+msgid "<span class=\"meta-nav\"></span> Previous"
+msgstr "<span class=\"meta-nav\"></span> Previous"
+
+#: image.php:22
+msgid "Next <span class=\"meta-nav\"></span>"
+msgstr "Next <span class=\"meta-nav\"></span>"
+
+#: image.php:32
+msgid "Published <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</a>"
+msgstr "Published <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</a>"
+
+#: header.php:37
+msgid "Menu"
+msgstr "Menu"
+
+#: functions.php:169
+msgid "Third Front Page Widget Area"
+msgstr "Third Front Page Widget Area"
+
+#: header.php:23
+msgid "Skip to content"
+msgstr "Skip to content"
+
+#: functions.php:161
+msgid "Second Front Page Widget Area"
+msgstr "Second Front Page Widget Area"
+
+#: functions.php:153
+msgid "First Front Page Widget Area"
+msgstr "First Front Page Widget Area"
+
+#: functions.php:145
+msgid "Third Footer Widget Area"
+msgstr "Third Footer Widget Area"
+
+#: functions.php:137
+msgid "Second Footer Widget Area"
+msgstr "Second Footer Widget Area"
+
+#: functions.php:129
+msgid "First Footer Widget Area"
+msgstr "First Footer Widget Area"
+
+#. translators: If there are characters in your language that are not supported
+#. by Droid Serif, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:87
+msgctxt "Droid Serif font: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: If there are characters in your language that are not supported
+#. by Oswald, translate this to 'off'. Do not translate into your own language.
+#: functions.php:92
+msgctxt "Oswald font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:121
+msgid "Main Sidebar"
+msgstr "Main Sidebar"
+
+#. translators: If there are characters in your language that are not supported
+#. by Source Sans Pro, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:82
+msgctxt "Source Sans Pro font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:49 inc/plugin-enhancements.php:124
+msgid "Social Menu"
+msgstr "Social Menu"
+
+#: functions.php:48
+msgid "Primary Menu"
+msgstr "Primary Menu"
+
+#: footer.php:21
+msgid "Theme: %1$s by %2$s."
+msgstr "Theme: %1$s by %2$s."
+
+#: footer.php:19
+msgid "Proudly powered by %s"
+msgstr "Proudly powered by %s"
+
+#: footer.php:19
+msgid "A Semantic Personal Publishing Platform"
+msgstr "A Semantic Personal Publishing Platform"
+
+#: content-none.php:26
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+
+#: content-none.php:21
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+
+#: content-none.php:17
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+
+#: content-none.php:11
+msgid "Nothing Found"
+msgstr "Nothing Found"
+
+#: content-grid.php:26 content-page.php:25 content-testimonial.php:21
+#: image.php:43 inc/template-tags.php:75 inc/template-tags.php:99
+#: inc/template-tags.php:205 page-templates/front-page.php:28
+msgid "Edit"
+msgstr "Edit"
+
+#: inc/template-tags.php:228
+msgid "Permalink to %s"
+msgstr "Permalink to %s"
+
+#: content-aside.php:29 content-gallery.php:30 content-image.php:31
+#: content-link.php:28 content-page.php:19 content-quote.php:29
+#: content-video.php:29 content.php:36 image.php:63
+msgid "Pages:"
+msgstr "Pages:"
+
+#: content-aside.php:26 content-gallery.php:27 content-image.php:28
+#: content-link.php:25 content-quote.php:26 content-video.php:26 content.php:33
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+
+#: comments.php:48
+msgid "Comments are closed."
+msgstr "Comments are closed."
+
+#: comments.php:26 comments.php:38
+msgid "Newer Comments &rarr;"
+msgstr "Newer Comments &rarr;"
+
+#: comments.php:25 comments.php:37
+msgid "&larr; Older Comments"
+msgstr "&larr; Older Comments"
+
+#: comments.php:24 comments.php:36
+msgid "Comment navigation"
+msgstr "Comment navigation"
+
+#: comments.php:17
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "One thought on &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s thoughts on &ldquo;%2$s&rdquo;"
+
+#: archive-jetpack-testimonial.php:29 inc/plugin-enhancements.php:151
+msgid "Testimonials"
+msgstr "Testimonials"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oops! That page can&rsquo;t be found."
+
+#. Author URI of the plugin/theme
+msgid "https://wordpress.com/themes/"
+msgstr "https://en-gb.wordpress.com/themes/"
+
+#. Theme URI of the plugin/theme
+msgid "https://wordpress.com/themes/sela/"
+msgstr "https://wordpress.com/themes/sela/"
+
+#. Author of the plugin/theme
+msgid "Automattic"
+msgstr "Automattic"

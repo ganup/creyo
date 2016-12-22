@@ -1,0 +1,416 @@
+/*--------------------------------------------------------------
+>>> TABLE OF CONTENTS:
+----------------------------------------------------------------
+1.0 Typography
+2.0 Elements
+3.0 Forms
+4.0 Links
+--------------------------------------------------------------*/
+
+/*--------------------------------------------------------------
+1.0 Typography
+--------------------------------------------------------------*/
+body,
+button,
+input,
+select,
+textarea {
+	color: #404040;
+	font-size: 18px;
+	font-size: 1em;
+	line-height: 1.75;
+	text-rendering: optimizelegibility;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	clear: both;
+}
+
+p {
+	margin-bottom: 1.5em;
+}
+
+dfn,
+cite,
+em,
+i {
+	font-style: italic;
+}
+
+blockquote {
+	margin: 0 1.5em 1.5em;
+	background-color: #fafafa;
+	border: 1px solid #ddd;
+	padding: .25em 1em 0;
+}
+
+blockquote cite {
+	display: block;
+	margin-top: .5em;
+	text-align: right;
+}
+
+address {
+	margin: 0 0 1.5em;
+}
+
+pre {
+	background: #fafafa;
+	border: 1px solid #ddd;
+	font-family: "Courier 10 Pitch", Courier, monospace;
+	font-size: 15px;
+	font-size: 0.9375rem;
+	line-height: 1.6;
+	margin-bottom: 1.6em;
+	max-width: 100%;
+	overflow: auto;
+	padding: 1em;
+}
+
+code,
+kbd,
+tt,
+var {
+	font-family: Monaco, Consolas, "Andale Mono", "DejaVu Sans Mono", monospace;
+	font-size: 15px;
+	font-size: 0.9375rem;
+}
+
+abbr,
+acronym {
+	border-bottom: 1px dotted #666;
+	cursor: help;
+}
+
+mark,
+ins {
+	background: #fff9c0;
+	text-decoration: none;
+}
+
+big {
+	font-size: 125%;
+}
+
+.justified {
+	text-align: justify;
+	-webkit-hyphens: auto;
+	-moz-hyphens: auto;
+	hyphens: auto;
+	word-wrap: break-word;
+}
+.hyphens {
+	-webkit-hyphens: auto;
+	-moz-hyphens: auto;
+	hyphens: auto;
+	word-wrap: break-word;
+}
+.site-title {
+	font-size: 2.5em;
+	line-height: 1.2;
+	margin-top: 0;
+	margin-bottom: .33em;
+}
+.site-description {
+	position: relative;
+	left: 3px;
+	font-size: 1em;
+	font-weight: 400;
+	font-weight: 300;
+	letter-spacing: 0.05em;
+	margin-bottom: 0;
+}
+.site-description::before {
+	position: absolute;
+	content: ' ';
+	width: 100%;
+	border-bottom: 1px solid #888;
+	top: -.25em;
+}
+.entry-categories {
+	margin-top: 0;
+	margin-bottom: 1em;
+	text-align: center;
+	letter-spacing: 0.05em;
+	text-transform: lowercase;
+	line-height: 1.2;
+	font-weight: 400;
+	font-weight: 300;
+}
+.entry-categories::before,
+.entry-categories::after {
+	content: '\2015';
+	padding: 0 .5em;
+}
+.entry-title,
+.widget-title,
+.page-title,
+.comments-title,
+.comment-reply-title {
+	margin: .25em 0;
+	text-align: center;
+	font-size: 2em;
+	font-weight: normal;
+	line-height: 1.2;
+}
+.widget-title,
+.page-title,
+.comments-title,
+.comment-reply-title {
+	font-size: 1.5em;
+	text-align: left;
+	width: 100%;
+	border-bottom: 1px solid #888;
+	margin-bottom: 1em;
+}
+.page-title,
+.comments-title,
+.comment-reply-title {
+	font-size: 1.35em;
+	border-bottom: 0;
+	margin: 0;
+}
+.comments-title {
+	margin-bottom: .75em;
+}
+.single .entry-title {
+	margin-top: 0;
+}
+#colophon {
+	font-size: .75em;
+	color: #999;
+	font-weight: 300;
+	border-top: 1px solid #888
+}
+#colophon a {
+	color: #999;
+}
+/*--------------------------------------------------------------
+2.0 Elements
+--------------------------------------------------------------*/
+html {
+	box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after { /* Inherit box-sizing to make it easier to change the property for components that leverage other behavior; see http://css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice/ */
+	box-sizing: inherit;
+}
+
+body {
+	background: #fff; /* Fallback for when there is no custom background color defined. */
+}
+
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
+	content: "";
+}
+
+blockquote,
+q {
+	quotes: "" "";
+}
+
+hr {
+	background-color: #ccc;
+	border: 0;
+	height: 1px;
+	margin-bottom: 1.5em;
+}
+
+ul,
+ol {
+	margin: 0 0 1.5em 1em;
+}
+
+ul {
+	list-style: disc;
+}
+
+ol {
+	list-style: decimal;
+}
+
+li > ul,
+li > ol {
+	margin-bottom: .125em;
+	margin-left: .25em;
+}
+
+dt {
+	font-weight: bold;
+}
+
+dd {
+	margin: 0 1.5em 1.5em;
+}
+
+img {
+	height: auto; /* Make sure images are scaled correctly. */
+	max-width: 100%; /* Adhere to container width. */
+}
+
+table {
+	margin: 0 0 1.5em;
+	width: 100%;
+}
+thead {
+	background-color: #eee;
+}
+th {
+	text-align: left;
+}
+tr.even {
+	background-color: #fafafa;
+}
+
+/*--------------------------------------------------------------
+3.0 Forms
+--------------------------------------------------------------*/
+button,
+input[type="button"],
+input[type="reset"],
+input[type="submit"] {
+	border: 1px solid;
+	border-color: #ccc #ccc #bbb;
+	border-radius: 3px;
+	background: #e6e6e6;
+	box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.5), inset 0 15px 17px rgba(255, 255, 255, 0.5), inset 0 -5px 12px rgba(0, 0, 0, 0.05);
+	color: rgba(0, 0, 0, .8);
+	font-size: 12px;
+	font-size: 0.75rem;
+	line-height: 1;
+	padding: .6em 1em .4em;
+	text-shadow: 0 1px 0 rgba(255, 255, 255, 0.8);
+}
+
+button:hover,
+input[type="button"]:hover,
+input[type="reset"]:hover,
+input[type="submit"]:hover {
+	border-color: #ccc #bbb #aaa;
+	box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.8), inset 0 15px 17px rgba(255, 255, 255, 0.8), inset 0 -5px 12px rgba(0, 0, 0, 0.02);
+}
+
+button:focus,
+input[type="button"]:focus,
+input[type="reset"]:focus,
+input[type="submit"]:focus,
+button:active,
+input[type="button"]:active,
+input[type="reset"]:active,
+input[type="submit"]:active {
+	border-color: #aaa #bbb #bbb;
+	box-shadow: inset 0 -1px 0 rgba(255, 255, 255, 0.5), inset 0 2px 5px rgba(0, 0, 0, 0.15);
+}
+
+input[type="text"],
+input[type="email"],
+input[type="url"],
+input[type="password"],
+input[type="search"],
+input[type="phone"],
+textarea {
+	color: #666;
+	border: 1px solid #ccc;
+	border-radius: 3px;
+	font-size: .85em;
+}
+
+input[type="text"]:focus,
+input[type="email"]:focus,
+input[type="url"]:focus,
+input[type="password"]:focus,
+input[type="search"]:focus,
+input[type="phone"]:focus,
+textarea:focus {
+	color: #111;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="url"],
+input[type="password"],
+input[type="phone"],
+input[type="search"] {
+	padding: .33em;
+}
+
+textarea {
+	padding: .33em .5em;
+	width: 100%;
+}
+
+.wpcf7-form,
+.contact-form {
+	position: relative;
+	font-size: .9em;
+	background-color: #f6f6f6;
+	border: 1px solid #ccc;
+	padding: 1em;
+}
+.contact-form.contact-form textarea {
+	width: 100%;
+}
+
+/*--------------------------------------------------------------
+4.0 Links
+--------------------------------------------------------------*/
+a, a:visited {
+	color: #444;
+	text-decoration: none;
+	border-bottom: 1px dotted #aaa;
+}
+
+a:hover,
+a:focus,
+a:active {
+	color: #000;
+	border-bottom: 0;
+}
+
+a:focus {
+	outline-color: 0;
+}
+
+a:hover,
+a:active {
+	outline: 0;
+}
+
+.nolinkborder a, a.nolinkborder {
+	border-bottom: 0;
+}
+
+@media screen and (max-width: 900px) {
+	.site-title {
+		font-size: 2em;
+	}
+}
+@media screen and (max-width: 768px) {
+	.site-title {
+		font-size: 1.75em;
+	}
+	.site-description {
+		font-size: .85em;
+	}
+}
+@media screen and (max-width: 640px) {
+
+}
+@media screen and (max-width: 480px) {
+	.site-title {
+		font-size: 1.33em;
+	}
+	.site-description {
+		font-size: .75em;
+	}
+}

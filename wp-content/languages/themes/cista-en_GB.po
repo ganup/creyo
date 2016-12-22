@@ -1,0 +1,31 @@
+# Translation of cista in English (UK)
+# This file is distributed under the same license as the cista package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-09-21 23:34:25+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.1.0-alpha\n"
+"Project-Id-Version: cista\n"
+
+#. Theme Name of the plugin/theme
+msgid "cista"
+msgstr "cista"
+
+#. Description of the plugin/theme
+msgid "Child Theme of Enigma. This is a Boxed Layout of the Parent Theme Enigma. This theme supports Custom Background and Background Color."
+msgstr "A child theme of Enigma. This is a boxed layout of the parent theme Enigma. This theme supports Custom Background and Background Colour."
+
+#: footer.php:53
+msgid "Go Top"
+msgstr "Go to Top"
+
+#: header.php:78
+msgid "Toggle navigation"
+msgstr "Toggle navigation"
+
+#. Author of the plugin/theme
+msgid "weblizar"
+msgstr "weblizar"

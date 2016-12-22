@@ -1,0 +1,174 @@
+/*
+ * Theme Name: Simple Portfolio
+ *
+ * Layout: Content-Blog
+ *
+ * Learn more: https://developer.wordpress.org/themes/basics/template-files/
+*/
+
+/* Featured Image */
+
+.large-thumbnail img {
+    display: block;
+    margin: 0 auto;
+}
+
+/*Content*/
+
+.single .entry-content, .single .entry-header, .single .entry-footer {
+    line-height: normal;
+    display: block;
+}
+
+.single h1.entry-title {
+    font-size: 36px;
+    font-size: 3.6rem;
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+    font-weight: normal;
+    color: #3b6a26;
+    text-transform: uppercase;
+    margin: 0 0 10px 0;
+    line-height: normal;
+}
+
+.single h2.entry-title {
+    font-size: 24px;
+    font-size: 2.4rem;
+    font-family: "Times New Roman", Times, serif;
+    font-weight: normal;
+    color: #3b6a26;
+    text-transform: uppercase;
+    line-height: 24px;
+    clear: none;
+}
+
+.single .entry-content h1,
+.single .entry-content h2,
+.single .entry-content h3,
+.single .entry-content h4,
+.single .entry-content h5,
+.single .entry-content h6 {
+    margin: 10px 0;
+    font-family: "Droid Serif", serif;
+    color: #3b6a26;
+}
+
+.single .entry-content h1 {
+    font-size: 32px;
+    font-size: 3.2rem;
+}
+
+.single .entry-content h2 {
+    font-size: 30px;
+    font-size: 3.0rem;
+}
+
+.single .entry-content h3 {
+    font-size: 28px;
+    font-size: 2.8rem;
+}
+
+.single .entry-content h4 {
+    font-size: 26px;
+    font-size: 2.6rem;
+}
+
+.single .entry-content h5 {
+    font-size: 24px;
+    font-size: 2.4rem;
+}
+
+.single .entry-content h6 {
+    font-size: 22px;
+    font-size: 2.2rem;
+}
+
+.single .entry-content p,
+.single .entry-content ul,
+.single .entry-content ol {
+    font-size: 18px;
+    font-size: 1.8rem;
+}
+
+.single p {
+    display: block;
+    clear: right;
+    text-align: left;
+    color: #5e6d66;
+}
+
+.single .entry-content blockquote p {
+    font-size: 23px;
+    font-size: 2.3rem;
+}
+
+.single .entry-content blockquote cite {
+    font-size: 21px;
+    font-size: 2.1rem;
+}
+
+.text-left {
+    text-align: left;
+}
+
+.entry-content .cta {
+    margin: 30px auto 60px auto;
+    text-align: center;
+    color: white;
+    padding: 10px 60px;
+    background: #7bc144;
+    text-decoration: none;
+    display: block;
+    width: 160px; 
+}
+
+@media screen and (max-width: 37.5em) {
+    .entry-content .cta {
+        width: 100%;
+        margin: 0 auto;
+        padding: 10px 0;
+    } 
+    .entry-content img {
+        margin-bottom: 20px;
+    }
+}
+
+ul, ol {
+    margin: 0;
+}
+.paddingbottom {
+    padding-bottom: 40px;
+}
+
+/* Category and tag links */
+.single .entry-footer {padding: 0;}
+.single .cat-links {
+    display: inline-block;
+    width: 50%;
+    text-align: left;
+}
+.single .tags-links {
+    display: inline-block;
+    width: 50%;
+    text-align: right;
+}
+.single .edit-link {display: block;}
+
+/* Post Navigation */
+.single .navigation {
+    margin: 0;
+}
+.single .navigation a{
+    color: #5e6d66;
+}
+.single .nav-links {
+    overflow: hidden;
+    margin: 30px;
+}
+.single .nav-previous {
+    text-align: left;
+}
+.single .nav-next {
+    text-align: right;
+}

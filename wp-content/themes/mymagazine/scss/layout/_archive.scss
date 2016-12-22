@@ -1,0 +1,63 @@
+.archive-header {
+   h2 {
+    background: $orange;
+    color: $white;
+    display: inline-block;
+    font-size: 1.6em;
+    line-height: 1.3;
+    margin-bottom: -0.312rem; 
+    margin-top: 0;
+    padding: 1.250rem;
+    z-index: 3;
+    @media #{$brk-netbook}{
+      font-size: 1.8rem;
+      line-height: 1.5;
+      margin-left: 0;
+      padding: 1.250rem 2.500rem 1.250rem 5.188rem;
+    }
+   }
+}
+.archive-title {
+  color: $blue;
+  display: inline-block;
+  font-size: 2.8rem;
+  margin: 0.6rem 0 1rem 0;
+  padding: 0;
+  text-align: right;
+}
+
+.articles-archive.columns:last-child {
+  float: left;
+}
+
+.author {
+  .author-info {
+    margin-top: 1.875rem;
+    .author-extended {
+      margin-top: 0;
+    }
+    .author-description {
+      margin-top: 0;
+      min-height: 16rem;
+      p {
+	padding-bottom: 2.125rem;
+	padding-top: 2.125rem;
+      }
+    }
+    .author-image {
+      .round-image {
+	top: 3rem;
+	.author-image-round {
+	  width: 10rem;
+	}
+      }
+    }
+  }
+}
+
+.archive {
+  .articles-home .article-label,
+  .article-introduction {
+    display: none;
+  }
+}

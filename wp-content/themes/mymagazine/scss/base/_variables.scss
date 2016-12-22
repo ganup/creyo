@@ -1,0 +1,15 @@
+// Descriptive color variables
+
+$white : #fff;
+$black : #000;
+$blue : #39BBD6;
+$green : #94bf31;
+$orange : #FBA81A;
+$color-text: #202020;
+
+// Media query breakpoints
+$only-mobile : 'screen and (min-width: 0.063rem) and (max-width: 40.062rem)';
+$only-tablets : 'screen and (min-width: 0.063rem) and (max-width: 64.062rem)';
+$brk-tablet : 'screen and (min-width: 40.063rem)';
+$brk-netbook : 'screen and (min-width: 64.063rem)';
+$print : 'print';

@@ -1,0 +1,20 @@
+ body {
+	 direction: rtl;
+     unicode-bidi: embed;
+ }
+ .main-navigation a,.site-content,.footer-widgets,.service-content {
+ 	text-align: right;
+ }
+ .site-footer .footer-widgets .widget-title::after {
+ 	right: 16%;
+ }
+ .site-footer .footer-widgets .widget-title::before {
+ 	right:0;
+ }
+ 
+ .comment-list > li .comment-metadata, 
+ .comment-list > li .comment-author, 
+ .comment-list > li .comment-content, 
+ .comment-list > li .comment-awaiting-moderation {
+ 	padding-right:180px;
+ }

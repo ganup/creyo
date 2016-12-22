@@ -1,0 +1,1417 @@
+# Translation of Poloray in English (UK)
+# This file is distributed under the same license as the Poloray package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-07-31 05:18:38+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.1.0-alpha\n"
+"Project-Id-Version: Poloray\n"
+
+#. Theme Name of the plugin/theme
+msgid "Poloray"
+msgstr "Poloray"
+
+#. Description of the plugin/theme
+msgid "The Poloray Theme for WordPress is simple and beautiful with lots of customization options that can tweaked by Theme Options Panel like logos, intro texts and background. Poloray Theme supports five widgetized areas (two in the sidebar, three in the footer) and featured images (thumbnails for gallery posts and custom header images for posts and pages). It includes stylesheets for print and the admin Visual Editor, special styles for posts in the \"Fullwidth\" and \"Gallery\" categories, and has an optional one-column page template that removes the sidebar."
+msgstr "The Poloray Theme for WordPress is simple and beautiful with lots of customisation options that can tweaked by Theme Options Panel like logos, intro texts and background. Poloray Theme supports five widgetised areas (two in the sidebar, three in the footer) and featured images (thumbnails for gallery posts and custom header images for posts and pages). It includes stylesheets for print and the admin Visual Editor, special styles for posts in the \"Fullwidth\" and \"Gallery\" categories, and has an optional one-column page template that removes the sidebar."
+
+#: functions/customizer.php:576
+msgid "Need Help!"
+msgstr "Need Help!"
+
+#: functions/customizer.php:355
+msgid "Fourth Feature Image"
+msgstr "Fourth Feature Image"
+
+#: functions/customizer.php:356
+msgid "Choose image for your Fourth Feature area. Optimal size 170px x 170px"
+msgstr "Choose image for your Fourth Feature area. Optimal size 170px x 170px"
+
+#: functions/customizer.php:363
+msgid "Fourth Feature Heading"
+msgstr "Fourth Feature Heading"
+
+#: functions/customizer.php:364
+msgid "Mention the heading for Fourth Feature Box that will showcase your business services."
+msgstr "Mention the heading for Fourth Feature Box that will showcase your business services."
+
+#: functions/customizer.php:371
+msgid "Fourth Feature Description"
+msgstr "Fourth Feature Description"
+
+#: functions/customizer.php:372
+msgid "Write short description for your Fourth Feature Box."
+msgstr "Write short description for your Fourth Feature Box."
+
+#: functions/customizer.php:379
+msgid "Fourth feature Link"
+msgstr "Fourth feature Link"
+
+#: functions/customizer.php:380
+msgid "Enter your text for Fourth feature Link."
+msgstr "Enter your text for Fourth feature Link."
+
+#: functions.php:103
+msgid "Sorry, That file already exists in the WordPress media library."
+msgstr "Sorry, That file already exists in the WordPress media library."
+
+#: functions.php:131
+msgid "The selected file could not be copied to %s."
+msgstr "The selected file could not be copied to %s."
+
+#: functions/themes-page.php:269
+msgid "Fully Responsive WordPress Business Directory Theme, One Click Auto Install. Extremely Easy to use. You can create Featured Business Listing. Can generate revenue for you via Paypal (Complete Integrated System) You can create Free/Paid Business Listing. Fully Integrated with User Submission System and much more"
+msgstr "Fully Responsive WordPress Business Directory Theme, One Click Auto Install. Extremely Easy to use. You can create Featured Business Listing. Can generate revenue for you via Paypal (Complete Integrated System) You can create Free/Paid Business Listing. Fully Integrated with User Submission System and much more"
+
+#: functions/themes-page.php:273
+msgid "Buy GeoCraft Theme"
+msgstr "Buy GeoCraft Theme"
+
+#: functions/themes-page.php:277
+msgid "Try GeoCraft Lite for FREE"
+msgstr "Try GeoCraft Lite for FREE"
+
+#: functions/themes-page.php:288
+msgid "Get Themes email updates and a free WordPress ebook"
+msgstr "Get Themes email updates and a free WordPress ebook"
+
+#: functions/themes-page.php:289
+msgid "We'll send you new updates about themes and WordPress and a free WordPress tips & tricks ebook!"
+msgstr "We'll send you new updates about themes and WordPress and a free WordPress tips & tricks ebook!"
+
+#: functions/themes-page.php:296
+msgid "Your Name"
+msgstr "Your Name"
+
+#: functions/themes-page.php:305
+msgid "Get the Poloray Pro Theme"
+msgstr "Get the Poloray Pro Theme"
+
+#: functions/themes-page.php:306
+msgid "You are using the Lite Version of Poloray Theme. Upgrade to Pro for extra features like Home Page Slider Contact Page, Gallery Features, FullWidth Page Templates, Multiple Color Options and much more."
+msgstr "You are using the Lite Version of Poloray Theme. Upgrade to Pro for extra features like Home Page Slider Contact Page, Gallery Features, FullWidth Page Templates, Multiple Colour Options and much more."
+
+#: functions/themes-page.php:307
+msgid "Get the Poloray Pro"
+msgstr "Get the Poloray Pro"
+
+#: functions/themes-page.php:311
+msgid "Rate us on WordPress.org "
+msgstr "Rate us on WordPress.org "
+
+#: functions/themes-page.php:312
+msgid "Get Best Theme support. We are always ready to solve your queries. Just started your query at InkThemes.com"
+msgstr "Get Best Theme support. We are always ready to solve your queries. Just started your query at InkThemes.com"
+
+#: functions/themes-page.php:313
+msgid "Get Free Support"
+msgstr "Get Free Support"
+
+#: functions.php:94
+msgid "Sorry, this file type is not permitted for security reasons."
+msgstr "Sorry, this file type is not permitted for security reasons."
+
+#: functions/themes-page.php:189
+msgid "Buy ButterBelly Theme"
+msgstr "Buy ButterBelly Theme"
+
+#: functions/themes-page.php:193
+msgid "Try ButterBelly Lite for FREE"
+msgstr "Try ButterBelly Lite for FREE"
+
+#: functions/themes-page.php:207
+msgid "Photomaker Theme"
+msgstr "Photomaker Theme"
+
+#: functions/themes-page.php:211
+msgid "As a Photographer one must need to display their work online, as it is the best means of demonstrating your high quality photographs and arts which makes you stand out among all."
+msgstr "As a Photographer one needs to display their work online, as it is the best means of demonstrating your high quality photographs and arts which make you stand out among all."
+
+#: functions/themes-page.php:213
+msgid "We have very carefully designed and crafted this theme to make your photos look elegant and spectacular on any device. Now you can market your work with this photography theme and can showcase your collection on your WordPress website."
+msgstr "We have very carefully designed and crafted this theme to make your photos look elegant and spectacular on any device. Now you can market your work with this photography theme and can showcase your collection on your WordPress website."
+
+#: functions/themes-page.php:217
+msgid "Buy Photomaker Theme"
+msgstr "Buy Photomaker Theme"
+
+#: functions/themes-page.php:221
+msgid "Try Photomaker Lite for FREE"
+msgstr "Try Photomaker Lite for FREE"
+
+#: functions/themes-page.php:235
+msgid "Harrington Theme"
+msgstr "Harrington Theme"
+
+#: functions/themes-page.php:239
+msgid "Harrington is a nice, clean and one of the super WordPress themes for business that comes with a variable slider on home page which gives a moving effect to your images."
+msgstr "Harrington is nice, clean and one of the super WordPress themes for business that comes with a variable slider on the homepage which gives a moving effect to your images."
+
+#: functions/themes-page.php:241
+msgid "Harrington comes with Ken Burns slider which gives animation effects to your slider images.. That makes Harrington completely outstanding as compared to other WordPress themes. You can adjust the speed of slider as well from the theme option panel"
+msgstr "Harrington comes with Ken Burns slider which gives animation effects to your slider images.. That makes Harrington completely outstanding compared to other WordPress themes. You can also adjust the speed of the slider from the theme option panel"
+
+#: functions/themes-page.php:245
+msgid "Buy Harrington Theme"
+msgstr "Buy Harrington Theme"
+
+#: functions/themes-page.php:249
+msgid "Try Harrington Lite for FREE"
+msgstr "Try Harrington Lite for FREE"
+
+#: functions/themes-page.php:263
+msgid "GeoCraft Directory Theme"
+msgstr "GeoCraft Directory Theme"
+
+#: functions/themes-page.php:267
+msgid "Now you can easily setup a WP directory listing website and start earning online. GeoCraft v2 Theme lets you get your City Business Directory Website online within minutes."
+msgstr "Now you can easily setup a WP directory listing website and start earning online. GeoCraft v2 Theme lets you get your City Business Directory Website online within minutes."
+
+#: functions/themes-page.php:154
+msgid "BlackRiders is one of best WordPress themes for lead generation. It gives an amazing look to your website and grabs leads for your business. You can easily capture leads from the homepage of your website. BlackRiders lets you create your business website within a minute. You can build up a very attractive business website to showcase your products and services in a better way."
+msgstr "BlackRiders is one of best WordPress themes for lead generation. It gives an amazing look to your website and grabs leads for your business. You can easily capture leads from the homepage of your website. BlackRiders lets you create your business website within a minute. You can build up a very attractive business website to showcase your products and services in a better way."
+
+#: functions/themes-page.php:157
+msgid "The theme comes  integrated with lead capture WordPress plugin. Just activate the plugin after installing the theme and start  getting leads. The plugin dispatches a beautiful lead capture form on your website."
+msgstr "The theme comes  integrated with lead capture WordPress plugin. Just activate the plugin after installing the theme and start  getting leads. The plugin dispatches a beautiful lead capture form on your website."
+
+#: functions/themes-page.php:161
+msgid "Buy BlackRider Theme"
+msgstr "Buy BlackRider Theme"
+
+#: functions/themes-page.php:165
+msgid "Try BlackRider Lite for FREE"
+msgstr "Try BlackRider Lite for FREE"
+
+#: functions/themes-page.php:179
+msgid "Butterbelly Theme"
+msgstr "Butterbelly Theme"
+
+#: functions/themes-page.php:183
+msgid "For creating a informative corporate WordPress website that perfectly highlights your company profile, business services, attract new visitors, generate leads etc, one need to have a awesome corporate WordPress theme like ButterBelly."
+msgstr "For creating a informative corporate WordPress website that perfectly highlights your company profile, business services, attract new visitors, generate leads etc, one needs to have an awesome corporate WordPress theme like ButterBelly."
+
+#: functions/themes-page.php:185
+msgid "ButterBelly is a clean, elegant and fully responsive Corporate WordPress Theme, designed specially for corporate websites. The theme is very easy to use and simple to handle. It makes easier for you to get your site ready in few minutes."
+msgstr "ButterBelly is a clean, elegant and fully responsive Corporate WordPress Theme, designed specially for corporate websites. The theme is very easy to use and simple to handle. It makes it easier for you to get your site ready in few minutes."
+
+#: functions/themes-page.php:97
+msgid "Compass is an awesome Professional Business WordPress theme with featured content sliders. It helps you to effectively showcase your business to your website visitors. The most rocking part is, it has got amazing animation effect in almost every part of its feature."
+msgstr "Compass is an awesome Professional Business WordPress theme with featured content sliders. It helps you to effectively showcase your business to your website visitors. The most rocking part is, it has got amazing animation effect in almost every part of its feature."
+
+#: functions/themes-page.php:99
+msgid "Compass is packed with some amazing features such as attractive multiple image Slider, facility to add video/testimonials on the homepage, showing portfolios, several page templates. Got a wonderful featured content moving sliders. Various fab icons with dynamic effect to show up your services in three-column featured area. And much more.."
+msgstr "Compass is packed with some amazing features such as attractive multiple image Slider, facility to add video/testimonials on the homepage, showing portfolios, several page templates. Got a wonderful featured content moving sliders. Various fab icons with dynamic effect to show up your services in three-column featured area. And much more.."
+
+#: functions/themes-page.php:103
+msgid "Buy Compass Theme"
+msgstr "Buy Compass Theme"
+
+#: functions/themes-page.php:107
+msgid "Try Compass Lite for FREE"
+msgstr "Try Compass Lite for FREE"
+
+#: functions/themes-page.php:121
+msgid "BlackWell Theme"
+msgstr "BlackWell Theme"
+
+#: functions/themes-page.php:125
+msgid "BlackWell is a highly professional One Page WordPress Theme for creating interior designing websites. It provides an eye catching look showcasing most important features of your work."
+msgstr "BlackWell is a highly professional One Page WordPress Theme for creating interior designing websites. It provides an eye catching look showcasing most important features of your work."
+
+#: functions/themes-page.php:128
+msgid "Cool thing about BlackWell home page is it comes with a single page scrolling effect which grabs visitors attention and makes site look attractive. A start up loading timer is also there to engage the user while your site is getting loaded."
+msgstr "Cool thing about BlackWell home page is it comes with a single page scrolling effect which grabs visitors attention and makes site look attractive. A start up loading timer is also there to engage the user while your site is getting loaded."
+
+#: functions/themes-page.php:132
+msgid "Buy BlackWell Theme"
+msgstr "Buy BlackWell Theme"
+
+#: functions/themes-page.php:136
+msgid "Try BlackWell Lite for FREE"
+msgstr "Try BlackWell Lite for FREE"
+
+#: functions/themes-page.php:150
+msgid "BlackRider Theme"
+msgstr "BlackRider Theme"
+
+#: functions/themes-page.php:68
+msgid "Colorway Theme"
+msgstr "Colourway Theme"
+
+#: functions/themes-page.php:72
+msgid "The best thing about Colorway Theme is the ease with the help of which you can convert your Website in various different Niches. &#8220;Your Clients Would Love Their Site & You Would smile in the back thinking about the Time That You Spend Building their Sites.&#8221;"
+msgstr "The best thing about Colourway Theme is the ease with the help with which you can convert your Website in various different Niches. &#8220;Your Clients Would Love Their Site & You Would smile in the back thinking about the Time That You Spend Building their Sites.&#8221;"
+
+#: functions/themes-page.php:74
+msgid "Colorway   Theme is perfect for quick and easy blogging with a clean and modern interface and tons of features. The layout does not distract from your content, which is vital for a site devoted to business & blogging."
+msgstr "Colourway Theme is perfect for quick and easy blogging with a clean and modern interface and tons of features. The layout does not distract from your content, which is vital for a site devoted to business & blogging."
+
+#: functions/themes-page.php:77
+msgid "Buy Colorway Theme"
+msgstr "Buy Colourway Theme"
+
+#: functions/themes-page.php:80
+msgid "Try Colorway Lite for FREE"
+msgstr "Try Colourway Lite for FREE"
+
+#: functions/themes-page.php:93
+msgid "Compass Theme"
+msgstr "Compass Theme"
+
+#: functions/customizer.php:436
+msgid "Enter your Pinterest Feed URL if you have one"
+msgstr "Enter your Pinterest Feed URL if you have one"
+
+#: functions/customizer.php:574
+msgid "View PRO version"
+msgstr "View PRO version"
+
+#: functions/themes-page.php:27
+msgid "Poloray Pro Version Features"
+msgstr "Poloray Pro Version Features"
+
+#: functions/themes-page.php:30
+msgid "10 Built in Color Schemes"
+msgstr "10 Built in Colour Schemes"
+
+#: functions/themes-page.php:31
+msgid "PDF/Video Documentations"
+msgstr "PDF/Video Documentation"
+
+#: functions/themes-page.php:32
+msgid "Cool Styling Features"
+msgstr "Cool Styling Features"
+
+#: functions/themes-page.php:33
+msgid "Multiple Slider Options"
+msgstr "Multiple Slider Options"
+
+#: functions/themes-page.php:38
+msgid "Seo optimized Theme"
+msgstr "Seo optimised Theme"
+
+#: functions/themes-page.php:39
+msgid "Translation Ready"
+msgstr "Translation Ready"
+
+#: functions/themes-page.php:40
+msgid "Improved Gallery Effect"
+msgstr "Improved Gallery Effect"
+
+#: functions/themes-page.php:41
+msgid "Gallery & Contact Page"
+msgstr "Gallery & Contact Page"
+
+#: functions/themes-page.php:44
+msgid "View Pro Demo"
+msgstr "View Pro Demo"
+
+#: functions/themes-page.php:45
+msgid "Upgrade to Pro"
+msgstr "Upgrade to Pro"
+
+#: functions/customizer.php:388
+msgid "Quickly add your custom CSS code to your theme by writing the code in this block."
+msgstr "Quickly add your custom CSS code to your theme by writing the code in this block."
+
+#: functions/customizer.php:395
+msgid "Facebook URL"
+msgstr "Facebook URL"
+
+#: functions/customizer.php:396
+msgid "Enter your Facebook URL if you have one."
+msgstr "Enter your Facebook URL if you have one."
+
+#: functions/customizer.php:403
+msgid "Twitter URL"
+msgstr "Twitter URL"
+
+#: functions/customizer.php:404
+msgid "Enter your Twitter URL if you have one"
+msgstr "Enter your Twitter URL if you have one"
+
+#: functions/customizer.php:411
+msgid "Yahoo URL"
+msgstr "Yahoo URL"
+
+#: functions/customizer.php:412
+msgid "Enter your Yahoo Feed URL if you have one"
+msgstr "Enter your Yahoo Feed URL if you have one"
+
+#: functions/customizer.php:419
+msgid "Rss URL"
+msgstr "Rss URL"
+
+#: functions/customizer.php:420
+msgid "Enter your Rss URL if you have one"
+msgstr "Enter your Rss URL if you have one"
+
+#: functions/customizer.php:427
+msgid "Digg URL"
+msgstr "Digg URL"
+
+#: functions/customizer.php:428
+msgid "Enter your Digg URL if you have one"
+msgstr "Enter your Digg URL if you have one"
+
+#: functions/customizer.php:435
+msgid "Pinterest URL"
+msgstr "Pinterest URL"
+
+#: functions/customizer.php:222
+msgid "Link for Top Feature Image"
+msgstr "Link for Top Feature Image"
+
+#: functions/customizer.php:223
+msgid "Enter your text for Top Feature  Link."
+msgstr "Enter your text for Top Feature  Link."
+
+#: functions/customizer.php:231
+msgid "Home Page Tagline"
+msgstr "Home Page Tagline"
+
+#: functions/customizer.php:232
+msgid "Enter your text for home page tagline"
+msgstr "Enter your text for home page tagline"
+
+#: functions/customizer.php:239
+msgid "Home Page Button Text"
+msgstr "Home Page Button Text"
+
+#: functions/customizer.php:240
+msgid "Enter your text for home page button."
+msgstr "Enter your text for home page button."
+
+#: functions/customizer.php:247
+msgid "Home Page Button Link"
+msgstr "Home Page Button Link"
+
+#: functions/customizer.php:248
+msgid "Enter your text for home page button link"
+msgstr "Enter your text for home page button link"
+
+#: functions/customizer.php:256
+msgid "First Feature Image"
+msgstr "First Feature Image"
+
+#: functions/customizer.php:257
+msgid "Choose image for your first Feature area. Optimal size 170px x 170px"
+msgstr "Choose image for your first Feature area. Optimal size 170px x 170px"
+
+#: functions/customizer.php:264
+msgid "First Feature Heading"
+msgstr "First Feature Heading"
+
+#: functions/customizer.php:265
+msgid "Mention the heading for First Feature Box that will showcase your business services."
+msgstr "Mention the heading for First Feature Box that will showcase your business services."
+
+#: functions/customizer.php:272
+msgid "First Feature Description"
+msgstr "First Feature Description"
+
+#: functions/customizer.php:273
+msgid "Write short description for your First Feature Box."
+msgstr "Write short description for your First Feature Box."
+
+#: functions/customizer.php:280
+msgid "First feature Link"
+msgstr "First feature Link"
+
+#: functions/customizer.php:281
+msgid "Enter your text for First feature Link."
+msgstr "Enter your text for First feature Link."
+
+#: functions/customizer.php:289
+msgid "Second Feature Image"
+msgstr "Second Feature Image"
+
+#: functions/customizer.php:290
+msgid "Choose image for your Second Feature area. Optimal size 170px x 170px"
+msgstr "Choose image for your Second Feature area. Optimal size 170px x 170px"
+
+#: functions/customizer.php:297
+msgid "Second Feature Heading"
+msgstr "Second Feature Heading"
+
+#: functions/customizer.php:298
+msgid "Mention the heading for Second Feature Box that will showcase your business services."
+msgstr "Mention the heading for Second Feature Box that will showcase your business services."
+
+#: functions/customizer.php:305
+msgid "Second Feature Description"
+msgstr "Second Feature Description"
+
+#: functions/customizer.php:306
+msgid "Write short description for your Second Feature Box."
+msgstr "Write short description for your Second Feature Box."
+
+#: functions/customizer.php:313
+msgid "Second feature Link"
+msgstr "Second feature Link"
+
+#: functions/customizer.php:314
+msgid "Enter your text for Second feature Link."
+msgstr "Enter your text for Second feature Link."
+
+#: functions/customizer.php:322
+msgid "Third Feature Image"
+msgstr "Third Feature Image"
+
+#: functions/customizer.php:323
+msgid "Choose image for your Third Feature area. Optimal size 170px x 170px"
+msgstr "Choose image for your Third Feature area. Optimal size 170px x 170px"
+
+#: functions/customizer.php:330
+msgid "Third Feature Heading"
+msgstr "Third Feature Heading"
+
+#: functions/customizer.php:331
+msgid "Mention the heading for Third Feature Box that will showcase your business services."
+msgstr "Mention the heading for Third Feature Box that will showcase your business services."
+
+#: functions/customizer.php:338
+msgid "Third Feature Description"
+msgstr "Third Feature Description"
+
+#: functions/customizer.php:339
+msgid "Write short description for your Third Feature Box."
+msgstr "Write short description for your Third Feature Box."
+
+#: functions/customizer.php:346
+msgid "Third feature Link"
+msgstr "Third feature Link"
+
+#: functions/customizer.php:347
+msgid "Enter your text for Third feature Link."
+msgstr "Enter your text for Third feature Link."
+
+#: functions/customizer.php:387
+msgid "Custom CSS"
+msgstr "Custom CSS"
+
+#: functions/customizer.php:182
+msgid "Custom Logo"
+msgstr "Custom Logo"
+
+#: functions/customizer.php:183
+msgid "Choose your own logo. Optimal Size: 300px Wide by 90px Height."
+msgstr "Choose your own logo. Optimal Size: 300px Wide by 90px Height."
+
+#: functions/customizer.php:190
+msgid "Custom Favicon"
+msgstr "Custom Favicon"
+
+#: functions/customizer.php:191
+msgid "Specify a 16px x 16px image that will represent your website favicon."
+msgstr "Specify a 16px x 16px image that will represent your website favicon."
+
+#: functions/customizer.php:198
+msgid "Top Feature Heading"
+msgstr "Top Feature Heading"
+
+#: functions/customizer.php:199
+msgid "Enter your text for Top Feature."
+msgstr "Enter your text for Top Feature."
+
+#: functions/customizer.php:206
+msgid "Top Feature Description"
+msgstr "Top Feature Description"
+
+#: functions/customizer.php:207
+msgid "Enter your text for Top Feature Description."
+msgstr "Enter your text for Top Feature Description."
+
+#: functions/customizer.php:210
+msgid "Poloray WordPress Theme with Single Click Installation, Just a Click and your website is ready in Instant."
+msgstr "Poloray WordPress Theme with Single Click Installation, Just a Click and your website is ready in Instant."
+
+#: functions/customizer.php:214
+msgid "Top Feature Image"
+msgstr "Top Feature Image"
+
+#: functions/customizer.php:215
+msgid "Choose your image or video. Optimal size is 422px wide and height 224px"
+msgstr "Choose your image or video. Optimal size is 422px wide and height 224px"
+
+#: functions/customizer.php:79
+msgid "Third Feature Area"
+msgstr "Third Feature Area"
+
+#: functions/customizer.php:80
+msgid "Allows you to setup third feature area section for Poloray Theme."
+msgstr "Allows you to setup third feature area section for Poloray Theme."
+
+#: functions/customizer.php:90
+msgid "Fourth Feature Area"
+msgstr "Fourth Feature Area"
+
+#: functions/customizer.php:91
+msgid "Allows you to setup fourth feature area section for Poloray Theme."
+msgstr "Allows you to setup fourth feature area section for Poloray Theme."
+
+#: functions/customizer.php:101
+msgid "Style Setting"
+msgstr "Style Setting"
+
+#: functions/customizer.php:102
+msgid "Allows you to setup Top Footer Section Text for Poloray Theme."
+msgstr "Allows you to setup Top Footer Section Text for Poloray Theme."
+
+#: functions/customizer.php:112
+msgid "Social Icons"
+msgstr "Social Icons"
+
+#: functions/customizer.php:113
+msgid "Allows you to setup social site link for Poloray Theme."
+msgstr "Allows you to setup social site link for Poloray Theme."
+
+#: functions/customizer.php:16
+msgid "Allows you to customize header logo, favicon, background etc settings for Poloray Theme."
+msgstr "Allows you to customise header logo, favicon, background etc settings for Poloray Theme."
+
+#: functions/customizer.php:26
+msgid "Top Feature Area"
+msgstr "Top Feature Area"
+
+#: functions/customizer.php:27
+msgid "Allows you to setup Top feature area section for Poloray Theme."
+msgstr "Allows you to setup Top feature area section for Poloray Theme."
+
+#: functions/customizer.php:37
+msgid "Home Page Feature Area"
+msgstr "Home Page Feature Area"
+
+#: functions/customizer.php:38
+msgid "Allows you to setup home page feature area section for Poloray Theme."
+msgstr "Allows you to setup home page feature area section for Poloray Theme."
+
+#: functions/customizer.php:46
+msgid "Home Page Tagline Feature Area"
+msgstr "Home Page Tagline Feature Area"
+
+#: functions/customizer.php:47
+msgid "Allows you to setup home page tagline feature area section for Poloray Theme."
+msgstr "Allows you to setup home page tagline feature area section for Poloray Theme."
+
+#: functions/customizer.php:57
+msgid "First Feature Area"
+msgstr "First Feature Area"
+
+#: functions/customizer.php:58
+msgid "Allows you to setup first feature area section for Poloray Theme."
+msgstr "Allows you to setup first feature area section for Poloray Theme."
+
+#: functions/customizer.php:68
+msgid "Second Feature Area"
+msgstr "Second Feature Area"
+
+#: functions/customizer.php:69
+msgid "Allows you to setup second feature area section for Poloray Theme."
+msgstr "Allows you to setup second feature area section for Poloray Theme."
+
+#: functions/customizer.php:15
+msgid "General Settings"
+msgstr "General Settings"
+
+#: functions/poloray-functions.php:140
+msgid "Error 404"
+msgstr "Error 404"
+
+#: functions/poloray-functions.php:138
+msgid "Articles posted by "
+msgstr "Articles posted by "
+
+#: functions/poloray-functions.php:134
+msgid "Posts tagged "
+msgstr "Posts tagged "
+
+#: functions/poloray-functions.php:132
+msgid "Search results for"
+msgstr "Search results for"
+
+#: functions/poloray-functions.php:84
+msgid "Archive by category"
+msgstr "Archive by category"
+
+#: functions/plugin-activation.php:3362
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Updating Plugin %1$s (%2$d/%3$d)"
+
+#: functions/plugin-activation.php:2814
+msgid "No plugins are available to be activated at this time."
+msgstr "No plugins are available to be activated at this time."
+
+#: functions/plugin-activation.php:2788
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "No plugins were selected to be activated. No action taken."
+
+#: functions/plugin-activation.php:2681
+msgid "No plugins are available to be installed at this time."
+msgstr "No plugins are available to be installed at this time."
+
+#: functions/plugin-activation.php:2683
+msgid "No plugins are available to be updated at this time."
+msgstr "No plugins are available to be updated at this time."
+
+#: functions/plugin-activation.php:2643
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "No plugins were selected to be installed. No action taken."
+
+#: functions/plugin-activation.php:2645
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "No plugins were selected to be updated. No action taken."
+
+#: functions/plugin-activation.php:2609
+msgid "Update"
+msgstr "Update"
+
+#: functions/plugin-activation.php:2500
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr "Activate %2$s"
+
+#: functions/plugin-activation.php:2495
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Update %2$s"
+msgstr "Update %2$s"
+
+#: functions/plugin-activation.php:2491
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr "Install %2$s"
+
+#: functions/plugin-activation.php:2570
+msgid "Upgrade message from the plugin author:"
+msgstr "Upgrade message from the plugin author:"
+
+#: functions/plugin-activation.php:2442
+msgid "Version"
+msgstr "Version"
+
+#: functions/plugin-activation.php:2399
+msgid "Available version:"
+msgstr "Available version:"
+
+#: functions/plugin-activation.php:2422
+msgid "No plugins to install, update or activate. <a href=\"%1$s\">Return to the Dashboard</a>"
+msgstr "No plugins to install, update or activate. <a href=\"%1$s\">Return to the Dashboard</a>"
+
+#: functions/plugin-activation.php:2387
+msgid "Minimum required version:"
+msgstr "Minimum required version:"
+
+#: functions/plugin-activation.php:2371
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "unknown"
+
+#: functions/plugin-activation.php:2289
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "To Activate <span class=\"count\">(%s)</span>"
+msgstr[1] "To Activate <span class=\"count\">(%s)</span>"
+
+#: functions/plugin-activation.php:2379
+msgid "Installed version:"
+msgstr "Installed version:"
+
+#: functions/plugin-activation.php:2283
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "To Install <span class=\"count\">(%s)</span>"
+msgstr[1] "To Install <span class=\"count\">(%s)</span>"
+
+#: functions/plugin-activation.php:2286
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Update Available <span class=\"count\">(%s)</span>"
+msgstr[1] "Update Available <span class=\"count\">(%s)</span>"
+
+#: functions/plugin-activation.php:2235
+msgctxt "%1$s = install status, %2$s = update status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: functions/plugin-activation.php:2280
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "All <span class=\"count\">(%s)</span>"
+msgstr[1] "All <span class=\"count\">(%s)</span>"
+
+#: functions/plugin-activation.php:2227
+msgid "Update recommended"
+msgstr "Update recommended"
+
+#: functions/plugin-activation.php:2224
+msgid "Requires Update"
+msgstr "Requires Update"
+
+#: functions/plugin-activation.php:2189
+msgid "External Source"
+msgstr "External Source"
+
+#: functions/plugin-activation.php:2215
+msgid "Active"
+msgstr "Active"
+
+#: functions/plugin-activation.php:1881
+msgctxt "%s = version number"
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: functions/plugin-activation.php:2221
+msgid "Required Update not Available"
+msgstr "Required Update not Available"
+
+#: functions/plugin-activation.php:1116 functions/plugin-activation.php:2828
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "and"
+
+#: functions/plugin-activation.php:938
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+
+#: functions/plugin-activation.php:935 functions/plugin-activation.php:938
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+
+#: functions/plugin-activation.php:935
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+
+#: functions/plugin-activation.php:521
+msgid "Update Required"
+msgstr "Update Required"
+
+#: functions/plugin-activation.php:520
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "This plugin needs to be updated to be compatible with your theme."
+
+#: functions/inkthemes-plugin-notify.php:98 functions/plugin-activation.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr "Please contact the administrator of this site for help."
+
+#: functions/inkthemes-plugin-notify.php:96 functions/plugin-activation.php:402
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+
+#: functions/inkthemes-plugin-notify.php:80 functions/plugin-activation.php:377
+msgid "Sorry, but you do not have the correct permissions to activate the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %1$s plugins."
+msgstr[0] "Sorry, but you do not have the correct permissions to activate the %1$s plugin."
+msgstr[1] "Sorry, but you do not have the correct permissions to activate the %1$s plugins."
+
+#: functions/inkthemes-plugin-notify.php:71 functions/plugin-activation.php:362
+msgid "Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %1$s plugins."
+msgstr[0] "Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgstr[1] "Sorry, but you do not have the correct permissions to update the %1$s plugins."
+
+#: functions/inkthemes-plugin-notify.php:62 functions/plugin-activation.php:347
+msgid "Sorry, but you do not have the correct permissions to install the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %1$s plugins."
+msgstr[0] "Sorry, but you do not have the correct permissions to install the %1$s plugin."
+msgstr[1] "Sorry, but you do not have the correct permissions to install the %1$s plugins."
+
+#: functions/inkthemes-plugin-notify.php:56
+msgid "This theme recommends the following plugin to add lead form on landing page: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "This theme recommends the following plugin to add lead form on landing page: %1$s."
+msgstr[1] "This theme requires the following plugins: %1$s."
+
+#: functions/plugin-activation.php:635
+msgid "Set the parent_slug config variable instead."
+msgstr "Set the parent_slug config variable instead."
+
+#: functions/inkthemes-plugin-notify.php:95 functions/plugin-activation.php:401
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "No action taken. Plugin %1$s was already active."
+
+#: functions/inkthemes-plugin-notify.php:89 functions/plugin-activation.php:392
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Begin activating plugin"
+msgstr[1] "Begin activating plugins"
+
+#: functions/inkthemes-plugin-notify.php:86 functions/plugin-activation.php:387
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Begin updating plugin"
+msgstr[1] "Begin updating plugins"
+
+#: functions/inkthemes-plugin-notify.php:74
+msgid "This theme recommends the following plugin to add lead form on landing page is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "This theme recommends the following plugin to add lead form on landing page which is currently inactive: %1$s."
+msgstr[1] "The following required plugins are currently inactive: %1$s."
+
+#: functions/inkthemes-plugin-notify.php:68 functions/plugin-activation.php:357
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "There is an update available for: %1$s."
+msgstr[1] "There are updates available for the following plugins: %1$s."
+
+#: functions/inkthemes-plugin-notify.php:52
+msgid "Install Recommended Plugins"
+msgstr "Install Recommended Plugins"
+
+#: front-page.php:22 functions/customizer.php:202
+msgid "Your Site is faster to built & Search Engine Optimized."
+msgstr "Your Site is faster to build & Search Engine Optimised."
+
+#. Template Name of the plugin/theme
+msgid "Blog Page"
+msgstr "Blog Page"
+
+#: single.php:50
+msgid "Post Tagged with "
+msgstr "Post Tagged with "
+
+#: single.php:67
+msgid "<span class=\"meta-nav\">&larr;</span> Previous Post "
+msgstr "<span class=\"meta-nav\">&larr;</span> Previous Post "
+
+#: single.php:69
+msgid "Next Post <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Next Post <span class=\"meta-nav\">&rarr;</span>"
+
+#: tag.php:14
+msgid "Tag Archives: %s"
+msgstr "Tag Archives: %s"
+
+#: sidebar.php:12
+msgid "Archives"
+msgstr "Archives"
+
+#: sidebar.php:6
+msgid "Categories"
+msgstr "Categories"
+
+#: sidebar-footer.php:32
+msgid "Our Services"
+msgstr "Our Services"
+
+#: sidebar-footer.php:34
+msgid "Theme Design"
+msgstr "Theme Design"
+
+#: sidebar-footer.php:35
+msgid "Logo Design"
+msgstr "Logo Design"
+
+#: sidebar-footer.php:36
+msgid "Template Design"
+msgstr "Template Design"
+
+#: sidebar-footer.php:37
+msgid "PSD Design"
+msgstr "PSD Design"
+
+#: sidebar-footer.php:38
+msgid "Others Themes"
+msgstr "Others Themes"
+
+#: sidebar-footer.php:48
+msgid "Search Site"
+msgstr "Search Site"
+
+#: sidebar.php:3
+msgid "Search:"
+msgstr "Search:"
+
+#: sidebar-footer.php:21
+msgid "April"
+msgstr "April"
+
+#: sidebar-footer.php:22
+msgid "August"
+msgstr "August"
+
+#: sidebar-footer.php:20
+msgid "March"
+msgstr "March"
+
+#: sidebar-footer.php:19
+msgid "February"
+msgstr "February"
+
+#: sidebar-footer.php:6
+msgid "About Us"
+msgstr "About Us"
+
+#: sidebar-footer.php:7
+msgid "A cras tincidunt,  is a  tellus et. Gravida scel sum sed iaculis, is a nunc non nam. Placerat sed hase llus, purus purus elit."
+msgstr "A cras tincidunt,  is a  tellus et. Gravida scel sum sed iaculis, is a nunc non nam. Placerat sed hase llus, purus purus elit."
+
+#: sidebar-footer.php:16
+msgid "Archives Widget"
+msgstr "Archives Widget"
+
+#: sidebar-footer.php:18
+msgid "January"
+msgstr "January"
+
+#: search.php:39
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+
+#: search.php:33
+msgid "Nothing Found"
+msgstr "Nothing Found"
+
+#: header.php:40
+msgid "Pages Navigation Menu"
+msgstr "Pages Navigation Menu"
+
+#: search.php:13
+msgid "Search Results for: %s"
+msgstr "Search Results for: %s"
+
+#: functions/poloray-functions.php:245
+msgid "The fourth footer widget area"
+msgstr "The fourth footer widget area"
+
+#: functions/poloray-functions.php:235
+msgid "The third footer widget area"
+msgstr "The third footer widget area"
+
+#: functions/poloray-functions.php:243
+msgid "Fourth Footer Widget Area"
+msgstr "Fourth Footer Widget Area"
+
+#: functions/poloray-functions.php:225
+msgid "The second footer widget area"
+msgstr "The second footer widget area"
+
+#: functions/poloray-functions.php:233
+msgid "Third Footer Widget Area"
+msgstr "Third Footer Widget Area"
+
+#: functions/poloray-functions.php:223
+msgid "Second Footer Widget Area"
+msgstr "Second Footer Widget Area"
+
+#: functions/poloray-functions.php:213
+msgid "First Footer Widget Area"
+msgstr "First Footer Widget Area"
+
+#: functions/poloray-functions.php:215
+msgid "The first footer widget area"
+msgstr "The first footer widget area"
+
+#: functions/poloray-functions.php:203
+msgid "Secondary Widget Area"
+msgstr "Secondary Widget Area"
+
+#: functions/poloray-functions.php:205
+msgid "The secondary widget area"
+msgstr "The secondary widget area"
+
+#: functions/poloray-functions.php:193
+msgid "Primary Widget Area"
+msgstr "Primary Widget Area"
+
+#: functions/poloray-functions.php:195
+msgid "The primary widget area"
+msgstr "The primary widget area"
+
+#: functions/poloray-functions.php:163
+msgid "This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+
+#: functions/poloray-functions.php:165
+msgid "Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+
+#: functions/poloray-functions.php:161
+msgid "This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+
+#: functions/poloray-functions.php:145
+msgid "Page"
+msgstr "Page"
+
+#: functions/poloray-functions.php:54 functions/poloray-functions.php:56
+#: functions/poloray-functions.php:69
+msgid "Home"
+msgstr "Home"
+
+#: functions/plugin-activation.php:3377
+msgid "All installations have been completed."
+msgstr "All installations have been completed."
+
+#: functions/plugin-activation.php:3378
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Installing Plugin %1$s (%2$d/%3$d)"
+
+#: functions/plugin-activation.php:828 functions/plugin-activation.php:3438
+msgid "Return to the Dashboard"
+msgstr "Return to the Dashboard"
+
+#: functions/poloray-functions.php:15
+msgid "Main Menu"
+msgstr "Main Menu"
+
+#: functions/plugin-activation.php:3375
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "The installation process is starting. This process may take a while on some hosts, so please be patient."
+
+#: functions/plugin-activation.php:3364
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "An error occurred while installing %1$s: <strong>%2$s</strong>."
+
+#: functions/plugin-activation.php:3365
+msgid "The installation of %1$s failed."
+msgstr "The installation of %1$s failed."
+
+#: functions/plugin-activation.php:3376
+msgid "%1$s installed successfully."
+msgstr "%1$s installed successfully."
+
+#: functions/plugin-activation.php:3371
+msgid "All installations and activations have been completed."
+msgstr "All installations and activations have been completed."
+
+#: functions/plugin-activation.php:3372
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+
+#: functions/plugin-activation.php:3370 functions/plugin-activation.php:3376
+msgid "Hide Details"
+msgstr "Hide Details"
+
+#: functions/plugin-activation.php:3369
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+
+#: functions/plugin-activation.php:3370
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s installed and activated successfully."
+
+#: functions/plugin-activation.php:3370 functions/plugin-activation.php:3376
+msgid "Show Details"
+msgstr "Show Details"
+
+#: functions/plugin-activation.php:3028
+msgid "Plugin activation failed."
+msgstr "Plugin activation failed."
+
+#: functions/plugin-activation.php:2612
+msgid "Activate"
+msgstr "Activate"
+
+#: functions/plugin-activation.php:2603
+msgid "Install"
+msgstr "Install"
+
+#: functions/plugin-activation.php:2443
+msgid "Status"
+msgstr "Status"
+
+#: functions/plugin-activation.php:2438
+msgid "Type"
+msgstr "Type"
+
+#: functions/plugin-activation.php:2437
+msgid "Source"
+msgstr "Source"
+
+#: functions/plugin-activation.php:2213
+msgid "Installed But Not Activated"
+msgstr "Installed But Not Activated"
+
+#: functions/plugin-activation.php:2436
+msgid "Plugin"
+msgstr "Plugin"
+
+#: functions/plugin-activation.php:2170
+msgid "Recommended"
+msgstr "RECOMMENDED"
+
+#: functions/plugin-activation.php:2209
+msgid "Not Installed"
+msgstr "Not Installed"
+
+#: functions/plugin-activation.php:2192
+msgid "Pre-Packaged"
+msgstr "Pre-Packaged"
+
+#: functions/plugin-activation.php:2186
+msgid "WordPress Repository"
+msgstr "WordPress Repository"
+
+#: functions/plugin-activation.php:2167
+msgid "Required"
+msgstr "REQUIRED"
+
+#: functions/plugin-activation.php:404
+msgid "Dismiss this notice"
+msgstr "Dismiss this notice"
+
+#: functions/inkthemes-plugin-notify.php:92 functions/plugin-activation.php:397
+msgid "Return to Required Plugins Installer"
+msgstr "Return to Required Plugins Installer"
+
+#: functions/plugin-activation.php:398
+msgid "Return to the dashboard"
+msgstr "Return to the dashboard"
+
+#: functions/inkthemes-plugin-notify.php:94 functions/plugin-activation.php:400
+#: functions/plugin-activation.php:2832
+msgid "The following plugin was activated successfully:"
+msgstr "The following plugin was activated successfully:"
+
+#: functions/inkthemes-plugin-notify.php:97 functions/plugin-activation.php:403
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "All plugins installed and activated successfully. %1$s"
+
+#: functions/plugin-activation.php:337
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "This theme requires the following plugin: %1$s."
+msgstr[1] "This theme requires the following plugins: %1$s."
+
+#: functions/plugin-activation.php:367
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "The following required plugin is currently inactive: %1$s."
+msgstr[1] "The following required plugins are currently inactive: %1$s."
+
+#: functions/inkthemes-plugin-notify.php:65 functions/plugin-activation.php:352
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[1] "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+
+#: functions/inkthemes-plugin-notify.php:83 functions/plugin-activation.php:382
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Begin installing plugin"
+msgstr[1] "Begin installing plugins"
+
+#: functions/inkthemes-plugin-notify.php:93 functions/plugin-activation.php:399
+#: functions/plugin-activation.php:3029
+msgid "Plugin activated successfully."
+msgstr "Plugin activated successfully."
+
+#: functions/inkthemes-plugin-notify.php:55 functions/plugin-activation.php:336
+msgid "Something went wrong with the plugin API."
+msgstr "Something went wrong with the plugin API."
+
+#: functions/inkthemes-plugin-notify.php:59 functions/plugin-activation.php:342
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "This theme recommends the following plugin: %1$s."
+msgstr[1] "This theme recommends the following plugins: %1$s."
+
+#: functions/inkthemes-plugin-notify.php:77 functions/plugin-activation.php:372
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "The following recommended plugin is currently inactive: %1$s."
+msgstr[1] "The following recommended plugins are currently inactive: %1$s."
+
+#: functions/inkthemes-plugin-notify.php:54 functions/plugin-activation.php:335
+msgid "Installing Plugin: %s"
+msgstr "Installing Plugin: %s"
+
+#: functions/inkthemes-plugin-notify.php:53 functions/plugin-activation.php:334
+msgid "Install Plugins"
+msgstr "Install Plugins"
+
+#: front-page.php:129 functions/customizer.php:301
+msgid "Multi Language Translation Enabled"
+msgstr "Multi Language Translation Enabled"
+
+#: front-page.php:134 functions/customizer.php:309
+msgid "Poloray Theme allows multi-language translation &amp; you can easily translate your site."
+msgstr "Poloray Theme allows multi-language translation &amp; you can easily translate your site."
+
+#: front-page.php:153 functions/customizer.php:334
+msgid "Mobile &amp; Tablet Optimized Design"
+msgstr "Mobile &amp; Tablet Optimised Design"
+
+#: front-page.php:158 functions/customizer.php:342
+msgid "Poloray Theme had a Responsive Mobiles &amp; Tablets Optimized Design."
+msgstr "Poloray Theme had a Responsive Mobiles &amp; Tablets Optimised Design."
+
+#: front-page.php:176 functions/customizer.php:367
+msgid "Highly Search Engine Friendly"
+msgstr "Highly Search Engine Friendly"
+
+#: front-page.php:181 functions/customizer.php:375
+msgid "Poloray Theme is SEO Friendly WordPress Theme, rank your site easily with Poloray."
+msgstr "Poloray Theme is SEO Friendly WordPress Theme, rank your site easily with Poloray."
+
+#: functions/plugin-activation.php:333
+msgid "Install Required Plugins"
+msgstr "Install Required Plugins"
+
+#: front-page.php:27
+msgid ""
+"Poloray WordPress Theme with Single Click \n"
+"                            Installation, Just a Click and your website is \n"
+"                            ready in Instant."
+msgstr ""
+"Poloray WordPress Theme with Single Click \n"
+"                            Installation, Just a Click and your website is \n"
+"                            ready in Instant."
+
+#: front-page.php:76 functions/customizer.php:235
+msgid "You will find some of the best and most reliable products over Here."
+msgstr "You will find some of the best and most reliable products over Here."
+
+#: front-page.php:86
+msgid "Get the Item Now !"
+msgstr "Get the Item Now !"
+
+#: front-page.php:105 functions/customizer.php:268
+msgid "Quick to Install and Configure"
+msgstr "Quick to Install and Configure"
+
+#: front-page.php:110 functions/customizer.php:276
+msgid "Poloray Theme is very easy to Install and you can do the setup in few minutes."
+msgstr "Poloray Theme is very easy to Install and you can do the setup in few minutes."
+
+#: front-page.php:114 front-page.php:138 front-page.php:162 front-page.php:185
+#: functions/customizer.php:243
+msgid "Read More"
+msgstr "Read More"
+
+#: comments.php:16
+msgid "so far."
+msgstr "so far."
+
+#: comments.php:33
+msgid "Comments are closed."
+msgstr "Comments are closed."
+
+#: comments.php:6
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "This post is password protected. Enter the password to view comments."
+
+#: category.php:12
+msgid "Category Archives: %s"
+msgstr "Category Archives: %s"
+
+#: blog.php:43 loop.php:15 single.php:38
+msgid "By"
+msgstr "By"
+
+#: blog.php:55 loop.php:28
+msgid "read more"
+msgstr "read more"
+
+#: blog.php:64 loop.php:37 single.php:61
+msgid "Sorry, no posts matched your criteria."
+msgstr "Sorry, no posts matched your criteria."
+
+#: author.php:44
+msgid "About %s"
+msgstr "About %s"
+
+#: author.php:13
+msgid "Author Archives: %s"
+msgstr "Author Archives: %s"
+
+#: attachment.php:88 page.php:32 single.php:46
+msgid "Pages:"
+msgstr "Pages:"
+
+#: attachment.php:87
+msgid "Continue reading &rarr;"
+msgstr "Continue reading &rarr;"
+
+#: attachment.php:45 attachment.php:90
+msgid "Edit"
+msgstr "Edit"
+
+#: attachment.php:42
+msgid "Link to full-size image"
+msgstr "Link to full-size image"
+
+#: attachment.php:37
+msgid "Published %2$s"
+msgstr "Published %2$s"
+
+#: attachment.php:42
+msgid "Full size is %s pixels"
+msgstr "Full size is %s pixels"
+
+#. translators: %s - title of parent post
+#: attachment.php:27
+msgid "<span>&larr;</span> %s"
+msgstr "<span>&larr;</span> %s"
+
+#: attachment.php:32
+msgid "By %2$s"
+msgstr "By %2$s"
+
+#: attachment.php:32
+msgid "View all posts by %s"
+msgstr "View all posts by %s"
+
+#: archive.php:52 author.php:65 blog.php:70 category.php:37 index.php:35
+#: search.php:48 tag.php:30
+msgid "&larr; Older posts"
+msgstr "&larr; Older posts"
+
+#: archive.php:54 author.php:67 blog.php:72 category.php:39 index.php:37
+#: search.php:50 tag.php:32
+msgid "Newer posts &rarr;"
+msgstr "Newer posts &rarr;"
+
+#: attachment.php:24
+msgid "Return to %s"
+msgstr "Return to %s"
+
+#: archive.php:23
+msgid "Blog Archives"
+msgstr "Blog Archives"
+
+#: archive.php:21
+msgid "Yearly Archives: %s"
+msgstr "Yearly Archives: %s"
+
+#: archive.php:19
+msgid "Monthly Archives: %s"
+msgstr "Monthly Archives: %s"
+
+#: archive.php:17
+msgid "Daily Archives: %s"
+msgstr "Daily Archives: %s"
+
+#. translators: %1$s: smilie
+#: 404.php:43
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Try looking in the monthly archives. %1$s"
+
+#: 404.php:35
+msgid "Most Used Categories"
+msgstr "Most Used Categories"
+
+#: 404.php:13
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr "This is somewhat embarrassing, isn&rsquo;t it?"
+
+#: 404.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching, or one of the links below, can help."
+msgstr "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching, or one of the links below, can help."
+
+#. Theme URI of the plugin/theme
+msgid "http://www.inkthemes.com/poloray-wordpress-org/"
+msgstr "http://www.inkthemes.com/poloray-wordpress-org/"
+
+#. Author of the plugin/theme
+msgid "InkThemes.com"
+msgstr "InkThemes.com"
+
+#. Author URI of the plugin/theme
+msgid "http://www.inkthemes.com"
+msgstr "http://www.inkthemes.com"

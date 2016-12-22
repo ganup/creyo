@@ -1,0 +1,22 @@
+e-Shopper
+
+*********************
+
+Version 1.4 (11/05/16)
+- Compatible with latest WooCommerce
+
+Version 1.3 (5/10/15)
+- Minor bug fixes
+
+Version 1.2 (28/9/15)
+- Woocomerce files updated
+- Minicart css modified
+- Major bugs resolved 
+
+Version 1.1 (9/1/15)
+- Screenshot changed
+- Changes in readme.txt
+- Woocommerce plugin check fixed
+
+Version 1.0 (7/15/15)
+- Initial release

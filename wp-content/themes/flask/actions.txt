@@ -1,0 +1,13 @@
+flask_before_the_page
+flask_before_the_header
+flask_in_the_header_before_the_inner
+flask_in_the_header
+flask_after_the_header
+flask_top_of_the_content
+flask_top_of_the_primary
+
+flask_bottom_of_the_content
+flask_above_the_footer
+flask_in_the_footer
+flask_after_the_footer
+flask_after_the_page

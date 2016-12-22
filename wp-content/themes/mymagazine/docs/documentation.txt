@@ -1,0 +1,92 @@
+﻿“Mymagazine Theme” Documentation by “SVG Themes” v1.0.4
+
+“Mymagazine - Free Responsive WordPress Theme”
+
+Created: 05 January 2016
+By: Alessandro Costa - svgThemes.com
+Email: info@svgthemes.com
+
+Table of Contents
+
+1) Installation
+2) Posts
+3) Menu
+4) Widgets
+5) Localization
+
+Thank you for downloding Mymagazine - WordPress theme! This document covers the installation and use of this theme. I encourage you to read this document if you are experiencing any difficulties.
+
+1)Installation
+
+To install this theme you must have a working version of WordPress already installed. For information about the WordPress installation, please see the WordPressCodex.
+Upload via ftp:
+First, upload the zip archive named Mymagazine.zip that you downloaded on your computer to your server via ftp to the /themes/ directory on your Wordpress installation. (wp-content > themes).
+Upload via Wordpress admin:
+Go to your Wordpress admin, and in Appearance > Themes, choose Add New Themes.
+Click Add new and upload the Mymagazine.zip file, once you have uploaded the theme, click on "activate".
+Then, in the admin panel you will be required to install the Mymagazine Features plugin.
+
+2)Posts
+
+MyMagazine is designed to make it extremely easy to create a website with the same style that you can see in the demo.
+
+Standard Post
+
+The graphic style of the standard post has the following features:
+It is characterized by the title that partially covers the featured image; under the featured image there is a box that contains the excerpt (manual or automatic);
+The excerpt management is very simple: in the edit page of the post, click on "Screen Options" and set the flag to excerpt. At this point, scroll down and you will find a new text field named, precisely Excerpt. If you enter a text in this field, it will be displayed inside the colored box located below the featured image. If you leave this field empty, the colored box will not appear. Beware though, into the home page and the archive pages the excerpt will be shown anyway: if the excerpt manual has not been entered, it will display the automatic one (the first 55 words of the post). 
+To set the links simply go to the edit page of the post, where you'll find a section called "Post links" and select the posts to link by a drop-down menu. For each link you can enter your own text by typing in a text field. On the home page the post normally has two elements:
+tag, displayed above the featured image out (in the case of more than one tag, the tag with the lowest ID number will be displayed);
+the category displayed inside a colored box that partially covers the featured image (in the case of more than one category, the category with the lowest ID number will be displayed).
+
+Sticky post
+
+The sticky post has no differences in style than the other posts, the only peculiarity is that it is presented as the first post of the home page, with a picture bigger than the others and an excerpt displayed inside a colored box.
+
+Video Post Format
+
+The post video format is specifically dedicated to the post containing a video. For these types of post you can enter text in the field and set excerpt of custom links. For post marked by this format, you should also set a featured image, which will be displayed on the home page and archive pages. In the absence of the image out, the home page displays only the title and any excerpt.
+Image Post Format
+
+The image post format is designed for those articles intended to contain a single image (the featured image). By entering a text in the excerpt field , it will be displayed inside the colored box. Even the links to posts will be displayed inside the box dedicated to the excerpt, while they will be displayed below the featured image in the case that the excerpt is not present.
+Gallery Post Format
+
+The Gallery post format displays an image slider containing all the images in the gallery using the lightweight jquery plugin Responsiveslides. Below the slider, the thumbnails of the images are displayed in columns. Again, you can enter a text excerpt in the field, however the summary will be displayed only within the home page and archive pages, while inside the single post it will not be displayed. It is recommended that you upload also a featured image, that will be displayed only on the home page and archive pages.
+For each post you can also choose to display or not information about its author. In the edit page of the post, below the content you can find an appropriate checkbox.
+
+3) Menu
+
+This theme has two registered menu, the primary menu and the social menu. In the dashboard of WordPress, go to Appearance > Menu and click on "create a new menu". Call it "primary" and click on "Create Menu". Now, in the bottom part of the page, in "Menu Settings" > "Theme Locations" click on the "primary" checkbox. Remember to add the pages, links or categories that you want to display in the primary menu, selecting them on the left part of the screen and clicking on "add to menu".The social menu, which appears at the top right of the screen, contains links to the social network entered by the user (only for these social networks: Facebook, Twitter, Pinterest, Instagram, Google+, Linkedin, Github, Reddit, Dribbble, Tumblr, Foursquare, Vimeo, Youtube, Flickr, Codepen). To do this, go to Appearance> Menus to create your menu and in "theme location" in the bottom of the page, select "Social media". At this point, in the Links tab, enter the url of your account of social networks (eg www.facebook.com/username), and the name of the link in "text link", then click "add to menu". The link will appear in the section "Menu structure", where you can drag the menu items in the order yor prefer.
+For more info on how to setup your menu in WordPress see http://codex.wordpress.org/Appearance_Menus_SubPanel
+
+4) Widgets
+
+This theme requires the plugin "Mymagazine Fetures" which allows the use of three widgets: Mymagazine Image Post Widgets, Mymagazine Video Post Widgets, Mymagazine Related Posts Widgets.
+
+Mymagazine Image Post Widgets
+
+This widget displays the featured image of the last post characterized by the Image post-format.
+
+Mymagazine Video Post Widgets
+
+This widget displays the last post characterized by the Video post-foramt.
+
+Mymagazine Related Post Widgets
+
+This widget is specifically designed to be used within the "below the widget content area", and its purpose is to display the thumbnails of three articles that belong to the same category of the post that is currently displayed.
+
+5) Localization
+
+This theme is ready for localization via .po/.mo files. For more informations about translating Wordpress themes, see more at: http://codex.wordpress.org/Translating_WordPress.
+
+Quick start guide for changing the language of Mymagazine
+
+Check your wp-config.php file, the language of this file must match to your translation;
+Into the folder languages of the theme, find the file mymagazine.pot, duplicate and rename it (example: fr_FR.po for Franch, en_EN.po for English).
+Download POEdit and open your file with this software.
+Translate your file. In File click on Preferences and select Automatically generate mo, then save your file.
+Finally, send your new .mo and .po via FTP to your server, in the folder "languages" of the theme
+
+Once again, thank you for downloading this theme.
+
+Alessandro Costa

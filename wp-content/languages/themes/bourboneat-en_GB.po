@@ -1,0 +1,233 @@
+# Translation of Themes - bourboneat in English (UK)
+# This file is distributed under the same license as the Themes - bourboneat package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-10-05 03:34:25+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.3.0-alpha\n"
+"Language: en_GB\n"
+"Project-Id-Version: Themes - bourboneat\n"
+
+#. Description of the plugin/theme
+msgid "Starter Theme for WordPress version 4.1 and later that includes the Bourbon Sass library and its Neat semantic grid for lightweight responsive design. IcoMoon font icons are also included to allow for updating using the IcoMoon app. This theme is simple and meant to be coded and customized into the theme you want."
+msgstr "Starter Theme for WordPress version 4.1 and later that includes the Bourbon Sass library and its Neat semantic grid for lightweight responsive design. IcoMoon font icons are also included to allow for updating using the IcoMoon app. This theme is simple and meant to be coded and customised into the theme you want."
+
+#. Theme Name of the plugin/theme
+msgid "bourboneat"
+msgstr "bourboneat"
+
+#: searchform.php:4
+msgid "Search Icon"
+msgstr "Search Icon"
+
+#: searchform.php:2
+msgid "Enter Search"
+msgstr "Enter Search"
+
+#: search.php:17
+msgid "Search Results for: %s"
+msgstr "Search Results for: %s"
+
+#: nav-page.php:5 search.php:38
+msgid "Next page"
+msgstr "Next page"
+
+#: nav-page.php:4 search.php:37
+msgid "Previous page"
+msgstr "Previous page"
+
+#: nav-page-single.php:8
+msgid "Previous post:"
+msgstr "Previous post:"
+
+#: nav-page-single.php:7
+msgid "Previous"
+msgstr "Previous"
+
+#: nav-page-single.php:5
+msgid "Next post:"
+msgstr "Next post:"
+
+#: nav-page-single.php:4
+msgid "Next"
+msgstr "Next"
+
+#: inc/back-compat.php:30 inc/back-compat.php:39
+msgid "bourboneat requires at least WordPress version 4.1. You are running version %s. Please upgrade and try again."
+msgstr "bourboneat requires at least WordPress version 4.1. You are running version %s. Please upgrade and try again."
+
+#: header.php:19
+msgid "Skip to content"
+msgstr "Skip to content"
+
+#: functions.php:35
+msgid "Error locating %s for inclusion"
+msgstr "Error locating %s for inclusion"
+
+#: functions/init.php:58
+msgid "Add widgets here to appear in your sidebar."
+msgstr "Add widgets here to appear in your sidebar."
+
+#: functions/init.php:56
+msgid "Widget Area"
+msgstr "Widget Area"
+
+#: functions/init.php:29
+msgid "Terms Footer Menu"
+msgstr "Terms Footer Menu"
+
+#: functions/init.php:28
+msgid "Footer Menu"
+msgstr "Footer Menu"
+
+#: functions/init.php:27
+msgid "Social Links Menu"
+msgstr "Social Links Menu"
+
+#: functions/init.php:26
+msgid "Primary Menu"
+msgstr "Primary Menu"
+
+#: functions/entry.php:121
+msgid "% Comments"
+msgstr "% Comments"
+
+#: functions/entry.php:121
+msgid "1 Comment"
+msgstr "1 Comment"
+
+#: functions/entry.php:121
+msgid "Leave a comment"
+msgstr "Leave a comment"
+
+#: functions/entry.php:113
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr "Full size"
+
+#: functions/entry.php:102
+msgctxt "Used before tag names."
+msgid "Tags"
+msgstr "Tags"
+
+#: functions/entry.php:94
+msgctxt "Used before category names."
+msgid "Categories"
+msgstr "Categories"
+
+#: functions/entry.php:91 functions/entry.php:99
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ", "
+
+#: functions/entry.php:85
+msgctxt "Used before post author name."
+msgid "Author"
+msgstr "Author"
+
+#: functions/entry.php:76
+msgctxt "Used before publish date."
+msgid "Posted on"
+msgstr "Posted on"
+
+#: functions/entry.php:47
+msgctxt "Used before post format."
+msgid "Format"
+msgstr "Format"
+
+#: functions/entry.php:41
+msgid "Featured"
+msgstr "Featured"
+
+#: functions/comments.php:20
+msgid "Newer Comments"
+msgstr "Newer Comments"
+
+#: functions/comments.php:16
+msgid "Older Comments"
+msgstr "Older Comments"
+
+#: functions/comments.php:13
+msgid "Comment navigation"
+msgstr "Comment navigation"
+
+#: footer.php:12 header.php:25
+msgid "Logo Image"
+msgstr "Logo Image"
+
+#: content-none.php:27
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+
+#: content-none.php:22
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+
+#: content-none.php:18
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+
+#: content-none.php:11
+msgid "Nothing Found"
+msgstr "Nothing Found"
+
+#: content-link.php:53 content-page.php:30 content-search.php:27
+#: content-search.php:33 content.php:50
+msgid "Edit"
+msgstr "Edit"
+
+#: content-link.php:37 content-page.php:24 content.php:35 nav-page.php:6
+#: search.php:39
+msgid "Page"
+msgstr "Page"
+
+#: content-link.php:33 content-page.php:20 content.php:31
+msgid "Pages:"
+msgstr "Pages:"
+
+#. translators: %s: Name of current post
+#: content-link.php:28 content.php:26 functions/custom.php:15
+msgid "Continue reading %s"
+msgstr "Continue reading %s"
+
+#: comments.php:47
+msgid "Comments are closed."
+msgstr "Comments are closed."
+
+#: comments.php:22
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "One thought on &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s thoughts on &ldquo;%2$s&rdquo;"
+
+#: author.php:27
+msgid "View all posts by %s"
+msgstr "View all posts by %s"
+
+#: author.php:8
+msgid "Published by"
+msgstr "Published by"
+
+#: 404.php:16
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "It looks like nothing was found at this location. Maybe try a search?"
+
+#: 404.php:12
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oops! That page can&rsquo;t be found."
+
+#. Author URI of the plugin/theme
+msgid "http://jimfrenette.com/"
+msgstr "http://jimfrenette.com/"
+
+#. Author of the plugin/theme
+msgid "Jim Frenette"
+msgstr "Jim Frenette"
+
+#. Theme URI of the plugin/theme
+msgid "https://github.com/jimfrenette/bourboneat"
+msgstr "https://github.com/jimfrenette/bourboneat"

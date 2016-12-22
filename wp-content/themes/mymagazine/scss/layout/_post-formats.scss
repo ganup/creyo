@@ -1,0 +1,136 @@
+.single-format-image,
+.single-format-video,
+.single-format-gallery, {
+  .article-intro {
+    .article-title {
+      margin-top: 1.300rem;
+      top: 0;
+      @media #{$brk-netbook}{
+        position: relative;
+      }
+    }
+  }
+  .summary {
+    margin-top: 0.3rem;
+  }
+}
+
+.gallery-caption {
+  display: inline-block;
+  font-size: 1.1rem;
+  margin-bottom: 2rem;
+  padding: 0.938rem 1.000rem;
+  position: relative;
+  top: 0.5rem;
+  width: 100%;
+  z-index: 2;
+}
+
+.rslides .gallery-caption {
+  background: $green;
+  color: $white;
+}
+
+.rslides_nav {
+  position: absolute;
+  bottom: -2rem;
+  color: $orange;
+  font-size: 3rem;
+  height: 61px;
+  margin-top: -45px;
+  opacity: 0.7;
+  overflow: hidden;
+  text-decoration: none;
+  width: 38px;
+  z-index: 99;
+  @media #{$brk-netbook}{
+    bottom: -3rem
+  }
+}
+
+.rslides_nav.prev {
+  left: 1.6rem;
+}
+
+.rslides_nav.next {
+  right: 1rem;
+}
+
+.video-container {
+  p {
+    padding: 1rem 0;
+  }
+}
+
+h2.video-post-title,
+h2.image-post-title,
+h2.gallery-post-title {
+  background: none;
+  color: $orange;
+  span {
+    background: $orange;
+    border-radius: 0.125rem;
+    color: $white;
+    font-size: 1.5rem;
+    margin-right: 1rem;
+    padding: 0.125rem 1.25rem;
+    position: relative;
+    top: -0.15rem;
+  }
+}
+
+
+.gallery {
+	margin: 0 -1.1666667% 1.75em;
+}
+
+.gallery-item {
+	display: inline-block;
+    margin: 0;
+	padding: 0 1.1400652% 2.2801304%;
+	text-align: center;
+	vertical-align: top;
+}
+
+.gallery-columns-1 .gallery-item {
+	width: 100%;
+}
+
+.gallery-columns-2 .gallery-item {
+	width: 50%;
+}
+
+.gallery-columns-3 .gallery-item {
+	width: 33.33%;
+}
+
+.gallery-columns-4 .gallery-item {
+	width: 25%;
+}
+
+.gallery-columns-5 .gallery-item {
+	width: 20%;
+}
+
+.gallery-columns-6 .gallery-item {
+	width: 16.66%;
+}
+
+.gallery-columns-7 .gallery-item {
+	width: 14.28%;
+}
+
+.gallery-columns-8 .gallery-item {
+	width: 12.5%;
+}
+
+.gallery-columns-9 .gallery-item {
+	width: 11.11%;
+}
+
+.gallery-columns-6 .gallery-caption,
+.gallery-columns-7 .gallery-caption,
+.gallery-columns-8 .gallery-caption,
+.gallery-columns-9 .gallery-caption {
+	
+}

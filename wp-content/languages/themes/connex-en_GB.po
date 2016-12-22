@@ -1,0 +1,27 @@
+# Translation of Connex in English (UK)
+# This file is distributed under the same license as the Connex package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-09-16 09:06:56+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.1.0-alpha\n"
+"Project-Id-Version: Connex\n"
+
+#. Theme Name of the plugin/theme
+msgid "Connex"
+msgstr "Connex"
+
+#. Description of the plugin/theme
+msgid "HTML5 & CSS3 Responsive WordPress Business theme with business style home page layout with welcome section, 3 product/services blocks and a client quote/testimonial section. 2 logo section layout options. 2 premade (Blue, Red) ready to use color schemes/skins. 3 widget areas in footer, 1 widget area in sidebar. 2 page layouts including a full width page template. Social media icons in footer."
+msgstr "HTML5 & CSS3 Responsive WordPress Business theme with business style home page layout with welcome section, three product/services blocks and a client quote/testimonial section. Two logo section layout options. Two pre-made (blue, red) ready to use colour schemes/skins. Three widget areas in footer, one widget area in sidebar. Two page layouts including a full width page template. Social media icons in footer."
+
+#. Author of the plugin/theme
+msgid "ThemeAlley.com"
+msgstr "ThemeAlley.com"
+
+#. Author URI of the plugin/theme
+msgid "http://www.themealley.com/"
+msgstr "http://www.themealley.com/"
